@@ -1,11 +1,13 @@
 ---
-title: "Paper 1"
+title: "MCL"
 date: 2016-03-04
 featured: true
 tags:
-- Third
-- Demo
+- Medical Data
+- Cancer
+- Deep Learning
+- Machine Learning
+- Methodology Transfer
 ---
 
-More details about the project go here
-tag is 'Third'
+MCL is a ...

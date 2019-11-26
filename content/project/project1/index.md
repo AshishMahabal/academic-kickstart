@@ -1,10 +1,18 @@
 ---
-title: "Paper 1"
+title: "Zwicky Transient Facility"
 date: 2017-03-04
 featured: true
 tags:
 - Deep Learning
+- Sky Survey
+- Machine Learning
+- Astronomy
+- Citizen Science
+- Asteroids
+- Transients
+- Variables
+- Blazars
+- CVs
 ---
 
-More details about the project go here
-tag is 'Deep Learning'
+The Zwicky Transient Facility (ZTF) is a ...

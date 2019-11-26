@@ -1,10 +1,13 @@
 ---
-title: "Paper 2"
+title: "Early Detection Research Network"
 date: 2018-03-04
 featured: true
 tags:
-- Demo
+- Deep Learning
+- Machine Learning
+- Cancer
+- Medical Data
+- Methodology Transfer
 ---
 
-More details about the project go here
-tag is 'Other'
+Early Detection Research Network (EDRN) is a ...

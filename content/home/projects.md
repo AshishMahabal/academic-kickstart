@@ -24,19 +24,47 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
+
+  [[content.filter_button]]
+    name = "Asteroids"
+    tag = "Asteroids"
+   
+  [[content.filter_button]]
+    name = "Astronomy"
+    tag = "Astronomy"
+
+[[content.filter_button]]
+    name = "Blazars"
+    tag = "Blazars"
+
+  [[content.filter_button]]
+    name = "CVs"
+    tag = "CVs"
+
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
   
   [[content.filter_button]]
-    name = "Other"
-    tag = "Demo"
+    name = "Machine Learning"
+    tag = "Machine Learning"
 
 [[content.filter_button]]
-    name = "AnOther"
-    tag = "Bio"
+    name = "Methodology Transfer"
+    tag = "Methodology Transfer"
 
+[[content.filter_button]]
+    name = "Sky Survey"
+    tag = "Sky Survey"
+
+[[content.filter_button]]
+    name = "Transients"
+    tag = "Transients"
+  
+[[content.filter_button]]
+    name = "Variables"
+    tag = "Variables"
+  
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"

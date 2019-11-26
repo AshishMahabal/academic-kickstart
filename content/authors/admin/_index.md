@@ -82,6 +82,8 @@ interests = [
 #   link = "files/cv.pdf"
 
 +++
-Ashish Mahabal is an astronomer (Division of Physics, Mathematics, and Astronomy) and Senior Data Scientist (Center for Data Driven Discovery) at the California Institute of Technology. His interests include Large Sky Surveys, Classification, Deep Learning, and Methodology Transfer to other complex-data fields like medicine.
+Ashish Mahabal is an astronomer (Division of Physics, Mathematics, and Astronomy) and Lead Computational and Data Scientist (Center for Data Driven Discovery) at the California Institute of Technology. His interests include Large Sky Surveys, Classification, Deep Learning, and Methodology Transfer to other complex-data fields like medicine.
 
-He leads the ML for the Zwicky Transient Facility, a new large survey covering the entire Northern Sky every few nights. He also works with the data Science group at the Jet Propulsion Laboratory and is part of the Early Detection Research Network (EDRN) for cancer, and MCL.
+He leads the ML for the Zwicky Transient Facility, a new large survey covering the entire Northern Sky every few nights. He also works with the Data Science group at the Jet Propulsion Laboratory and is part of the Early Detection Research Network (EDRN) for cancer, and MCL.
+
+This website is generally hopelessly outdated, but you should still get a broad overview of Ashish Mahabal's Universe, Life, and Everything here.
