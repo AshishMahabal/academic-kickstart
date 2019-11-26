@@ -1,10 +1,11 @@
 ---
 title: "Paper 1"
-date: 2017-03-04
+date: 2016-03-04
 featured: true
 tags:
-- Deep Learning
+- Third
+- Demo
 ---
 
 More details about the project go here
-tag is 'Deep Learning'
+tag is 'Third'
