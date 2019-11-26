@@ -1,3 +1,7 @@
++++
+title = "Writings"
++++
+
 Besides the scientific papers and a few popular science articles, I have been writing
 science-fiction in Marathi for the last few years. I write short-stories,
 mostly hard sci-fi, and they have been published in leading Marathi magazines
