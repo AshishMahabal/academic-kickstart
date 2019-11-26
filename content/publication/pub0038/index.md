@@ -1,319 +1,320 @@
 ---
 title: "LSST: from Science Drivers to Reference Design and Anticipated Data   Products"
 date: 2018-05-23T19:18:23Z
-author: "Željko Ivezić"
-author: "Steven M. Kahn"
-author: "J. Anthony Tyson"
-author: "Bob Abel"
-author: "Emily Acosta"
-author: "Robyn Allsman"
-author: "David Alonso"
-author: "Yusra AlSayyad"
-author: "Scott F. Anderson"
-author: "John Andrew"
-author: "James Roger P. Angel"
-author: "George Z. Angeli"
-author: "Reza Ansari"
-author: "Pierre Antilogus"
-author: "Constanza Araujo"
-author: "Robert Armstrong"
-author: "Kirk T. Arndt"
-author: "Pierre Astier"
-author: "Éric Aubourg"
-author: "Nicole Auza"
-author: "Tim S. Axelrod"
-author: "Deborah J. Bard"
-author: "Jeff D. Barr"
-author: "Aurelian Barrau"
-author: "James G. Bartlett"
-author: "Amanda E. Bauer"
-author: "Brian J. Bauman"
-author: "Sylvain Baumont"
-author: "Andrew C. Becker"
-author: "Jacek Becla"
-author: "Cristina Beldica"
-author: "Steve Bellavia"
-author: "Federica B. Bianco"
-author: "Rahul Biswas"
-author: "Guillaume Blanc"
-author: "Jonathan Blazek"
-author: "Roger D. Blandford"
-author: "Josh S. Bloom"
-author: "Joanne Bogart"
-author: "Tim W. Bond"
-author: "Anders W. Borgland"
-author: "Kirk Borne"
-author: "James F. Bosch"
-author: "Dominique Boutigny"
-author: "Craig A. Brackett"
-author: "Andrew Bradshaw"
-author: "William Nielsen Brandt"
-author: "Michael E. Brown"
-author: "James S. Bullock"
-author: "Patricia Burchat"
-author: "David L. Burke"
-author: "Gianpietro Cagnoli"
-author: "Daniel Calabrese"
-author: "Shawn Callahan"
-author: "Alice L. Callen"
-author: "Srinivasan Chandrasekharan"
-author: "Glenaver Charles-Emerson"
-author: "Steve Chesley"
-author: "Elliott C. Cheu"
-author: "Hsin-Fang Chiang"
-author: "James Chiang"
-author: "Carol Chirino"
-author: "Derek Chow"
-author: "David R. Ciardi"
-author: "Charles F. Claver"
-author: "Johann Cohen-Tanugi"
-author: "Joseph J. Cockrum"
-author: "Rebecca Coles"
-author: "Andrew J. Connolly"
-author: "Kem H. Cook"
-author: "Asantha Cooray"
-author: "Kevin R. Covey"
-author: "Chris Cribbs"
-author: "Wei Cui"
-author: "Roc Cutri"
-author: "Philip N. Daly"
-author: "Scott F. Daniel"
-author: "Felipe Daruich"
-author: "Guillaume Daubard"
-author: "Greg Daues"
-author: "William Dawson"
-author: "Francisco Delgado"
-author: "Alfred Dellapenna"
-author: "Robert de Peyster"
-author: "Miguel de Val-Borro"
-author: "Seth W. Digel"
-author: "Peter Doherty"
-author: "Richard Dubois"
-author: "Gregory P. Dubois-Felsmann"
-author: "Josef Durech"
-author: "Frossie Economou"
-author: "Michael Eracleous"
-author: "Henry Ferguson"
-author: "Enrique Figueroa"
-author: "Merlin Fisher-Levine"
-author: "Warren Focke"
-author: "Michael D. Foss"
-author: "James Frank"
-author: "Michael D. Freemon"
-author: "Emmanuel Gangler"
-author: "Eric Gawiser"
-author: "John C. Geary"
-author: "Perry Gee"
-author: "Marla Geha"
-author: "Charles J. B. Gessner"
-author: "Robert R. Gibson"
-author: "D. Kirk Gilmore"
-author: "Thomas Glanzman"
-author: "William Glick"
-author: "Tatiana Goldina"
-author: "Daniel A. Goldstein"
-author: "Iain Goodenow"
-author: "Melissa L. Graham"
-author: "William J. Gressler"
-author: "Philippe Gris"
-author: "Leanne P. Guy"
-author: "Augustin Guyonnet"
-author: "Gunther Haller"
-author: "Ron Harris"
-author: "Patrick A. Hascall"
-author: "Justine Haupt"
-author: "Fabio Hernandez"
-author: "Sven Herrmann"
-author: "Edward Hileman"
-author: "Joshua Hoblitt"
-author: "John A. Hodgson"
-author: "Craig Hogan"
-author: "Dajun Huang"
-author: "Michael E. Huffer"
-author: "Patrick Ingraham"
-author: "Walter R. Innes"
-author: "Suzanne H. Jacoby"
-author: "Bhuvnesh Jain"
-author: "Fabrice Jammes"
-author: "James Jee"
-author: "Tim Jenness"
-author: "Garrett Jernigan"
-author: "Darko Jevremović"
-author: "Kenneth Johns"
-author: "Anthony S. Johnson"
-author: "Margaret W. G. Johnson"
-author: "R. Lynne Jones"
-author: "Claire Juramy-Gilles"
-author: "Mario Jurić"
-author: "Jason S. Kalirai"
-author: "Nitya J. Kallivayalil"
-author: "Bryce Kalmbach"
-author: "Jeffrey P. Kantor"
-author: "Pierre Karst"
-author: "Mansi M. Kasliwal"
-author: "Heather Kelly"
-author: "Richard Kessler"
-author: "Veronica Kinnison"
-author: "David Kirkby"
-author: "Lloyd Knox"
-author: "Ivan V. Kotov"
-author: "Victor L. Krabbendam"
-author: "K. Simon Krughoff"
-author: "Petr Kubánek"
-author: "John Kuczewski"
-author: "Shri Kulkarni"
-author: "John Ku"
-author: "Nadine R. Kurita"
-author: "Craig S. Lage"
-author: "Ron Lambert"
-author: "Travis Lange"
-author: "J. Brian Langton"
-author: "Laurent Le Guillou"
-author: "Deborah Levine"
-author: "Ming Liang"
-author: "Kian-Tat Lim"
-author: "Chris J. Lintott"
-author: "Kevin E. Long"
-author: "Margaux Lopez"
-author: "Paul J. Lotz"
-author: "Robert H. Lupton"
-author: "Nate B. Lust"
-author: "Lauren A. MacArthur"
-author: "Ashish Mahabal"
-author: "Rachel Mandelbaum"
-author: "Darren S. Marsh"
-author: "Philip J. Marshall"
-author: "Stuart Marshall"
-author: "Morgan May"
-author: "Robert McKercher"
-author: "Michelle McQueen"
-author: "Joshua Meyers"
-author: "Myriam Migliore"
-author: "Michelle Miller"
-author: "David J. Mills"
-author: "Connor Miraval"
-author: "Joachim Moeyens"
-author: "David G. Monet"
-author: "Marc Moniez"
-author: "Serge Monkewitz"
-author: "Christopher Montgomery"
-author: "Fritz Mueller"
-author: "Gary P. Muller"
-author: "Freddy Muñoz Arancibia"
-author: "Douglas R. Neill"
-author: "Scott P. Newbry"
-author: "Jean-Yves Nief"
-author: "Andrei Nomerotski"
-author: "Martin Nordby"
-author: "Paul O'Connor"
-author: "John Oliver"
-author: "Scot S. Olivier"
-author: "Knut Olsen"
-author: "William O'Mullane"
-author: "Sandra Ortiz"
-author: "Shawn Osier"
-author: "Russell E. Owen"
-author: "Reynald Pain"
-author: "Paul E. Palecek"
-author: "John K. Parejko"
-author: "James B. Parsons"
-author: "Nathan M. Pease"
-author: "J. Matt Peterson"
-author: "John R. Peterson"
-author: "Donald L. Petravick"
-author: "M. E. Libby Petrick"
-author: "Cathy E. Petry"
-author: "Francesco Pierfederici"
-author: "Stephen Pietrowicz"
-author: "Rob Pike"
-author: "Philip A. Pinto"
-author: "Raymond Plante"
-author: "Stephen Plate"
-author: "Paul A. Price"
-author: "Michael Prouza"
-author: "Veljko Radeka"
-author: "Jayadev Rajagopal"
-author: "Andrew P. Rasmussen"
-author: "Nicolas Regnault"
-author: "Kevin A. Reil"
-author: "David J. Reiss"
-author: "Michael A. Reuter"
-author: "Stephen T. Ridgway"
-author: "Vincent J. Riot"
-author: "Steve Ritz"
-author: "Sean Robinson"
-author: "William Roby"
-author: "Aaron Roodman"
-author: "Wayne Rosing"
-author: "Cecille Roucelle"
-author: "Matthew R. Rumore"
-author: "Stefano Russo"
-author: "Abhijit Saha"
-author: "Benoit Sassolas"
-author: "Terry L. Schalk"
-author: "Pim Schellart"
-author: "Rafe H. Schindler"
-author: "Samuel Schmidt"
-author: "Donald P. Schneider"
-author: "Michael D. Schneider"
-author: "William Schoening"
-author: "German Schumacher"
-author: "Megan E. Schwamb"
-author: "Jacques Sebag"
-author: "Brian Selvy"
-author: "Glenn H. Sembroski"
-author: "Lynn G. Seppala"
-author: "Andrew Serio"
-author: "Eduardo Serrano"
-author: "Richard A. Shaw"
-author: "Ian Shipsey"
-author: "Jonathan Sick"
-author: "Nicole Silvestri"
-author: "Colin T. Slater"
-author: "J. Allyn Smith"
-author: "R. Chris Smith"
-author: "Shahram Sobhani"
-author: "Christine Soldahl"
-author: "Lisa Storrie-Lombardi"
-author: "Edward Stover"
-author: "Michael A. Strauss"
-author: "Rachel A. Street"
-author: "Christopher W. Stubbs"
-author: "Ian S. Sullivan"
-author: "Donald Sweeney"
-author: "John D. Swinbank"
-author: "Alexander Szalay"
-author: "Peter Takacs"
-author: "Stephen A. Tether"
-author: "Jon J. Thaler"
-author: "John Gregg Thayer"
-author: "Sandrine Thomas"
-author: "Vaikunth Thukral"
-author: "Jeffrey Tice"
-author: "David E. Trilling"
-author: "Max Turri"
-author: "Richard Van Berg"
-author: "Daniel Vanden Berk"
-author: "Kurt Vetter"
-author: "Francoise Virieux"
-author: "Tomislav Vucina"
-author: "William Wahl"
-author: "Lucianne Walkowicz"
-author: "Brian Walsh"
-author: "Christopher W. Walter"
-author: "Daniel L. Wang"
-author: "Shin-Yawn Wang"
-author: "Michael Warner"
-author: "Oliver Wiecha"
-author: "Beth Willman"
-author: "Scott E. Winters"
-author: "David Wittman"
-author: "Sidney C. Wolff"
-author: "W. Michael Wood-Vasey"
-author: "Xiuqin Wu"
-author: "Bo Xin"
-author: "Peter Yoachim"
-author: "Hu Zhan"
+authors:
+- Željko Ivezić
+- Steven M. Kahn
+- J. Anthony Tyson
+- Bob Abel
+- Emily Acosta
+- Robyn Allsman
+- David Alonso
+- Yusra AlSayyad
+- Scott F. Anderson
+- John Andrew
+- James Roger P. Angel
+- George Z. Angeli
+- Reza Ansari
+- Pierre Antilogus
+- Constanza Araujo
+- Robert Armstrong
+- Kirk T. Arndt
+- Pierre Astier
+- Éric Aubourg
+- Nicole Auza
+- Tim S. Axelrod
+- Deborah J. Bard
+- Jeff D. Barr
+- Aurelian Barrau
+- James G. Bartlett
+- Amanda E. Bauer
+- Brian J. Bauman
+- Sylvain Baumont
+- Andrew C. Becker
+- Jacek Becla
+- Cristina Beldica
+- Steve Bellavia
+- Federica B. Bianco
+- Rahul Biswas
+- Guillaume Blanc
+- Jonathan Blazek
+- Roger D. Blandford
+- Josh S. Bloom
+- Joanne Bogart
+- Tim W. Bond
+- Anders W. Borgland
+- Kirk Borne
+- James F. Bosch
+- Dominique Boutigny
+- Craig A. Brackett
+- Andrew Bradshaw
+- William Nielsen Brandt
+- Michael E. Brown
+- James S. Bullock
+- Patricia Burchat
+- David L. Burke
+- Gianpietro Cagnoli
+- Daniel Calabrese
+- Shawn Callahan
+- Alice L. Callen
+- Srinivasan Chandrasekharan
+- Glenaver Charles-Emerson
+- Steve Chesley
+- Elliott C. Cheu
+- Hsin-Fang Chiang
+- James Chiang
+- Carol Chirino
+- Derek Chow
+- David R. Ciardi
+- Charles F. Claver
+- Johann Cohen-Tanugi
+- Joseph J. Cockrum
+- Rebecca Coles
+- Andrew J. Connolly
+- Kem H. Cook
+- Asantha Cooray
+- Kevin R. Covey
+- Chris Cribbs
+- Wei Cui
+- Roc Cutri
+- Philip N. Daly
+- Scott F. Daniel
+- Felipe Daruich
+- Guillaume Daubard
+- Greg Daues
+- William Dawson
+- Francisco Delgado
+- Alfred Dellapenna
+- Robert de Peyster
+- Miguel de Val-Borro
+- Seth W. Digel
+- Peter Doherty
+- Richard Dubois
+- Gregory P. Dubois-Felsmann
+- Josef Durech
+- Frossie Economou
+- Michael Eracleous
+- Henry Ferguson
+- Enrique Figueroa
+- Merlin Fisher-Levine
+- Warren Focke
+- Michael D. Foss
+- James Frank
+- Michael D. Freemon
+- Emmanuel Gangler
+- Eric Gawiser
+- John C. Geary
+- Perry Gee
+- Marla Geha
+- Charles J. B. Gessner
+- Robert R. Gibson
+- D. Kirk Gilmore
+- Thomas Glanzman
+- William Glick
+- Tatiana Goldina
+- Daniel A. Goldstein
+- Iain Goodenow
+- Melissa L. Graham
+- William J. Gressler
+- Philippe Gris
+- Leanne P. Guy
+- Augustin Guyonnet
+- Gunther Haller
+- Ron Harris
+- Patrick A. Hascall
+- Justine Haupt
+- Fabio Hernandez
+- Sven Herrmann
+- Edward Hileman
+- Joshua Hoblitt
+- John A. Hodgson
+- Craig Hogan
+- Dajun Huang
+- Michael E. Huffer
+- Patrick Ingraham
+- Walter R. Innes
+- Suzanne H. Jacoby
+- Bhuvnesh Jain
+- Fabrice Jammes
+- James Jee
+- Tim Jenness
+- Garrett Jernigan
+- Darko Jevremović
+- Kenneth Johns
+- Anthony S. Johnson
+- Margaret W. G. Johnson
+- R. Lynne Jones
+- Claire Juramy-Gilles
+- Mario Jurić
+- Jason S. Kalirai
+- Nitya J. Kallivayalil
+- Bryce Kalmbach
+- Jeffrey P. Kantor
+- Pierre Karst
+- Mansi M. Kasliwal
+- Heather Kelly
+- Richard Kessler
+- Veronica Kinnison
+- David Kirkby
+- Lloyd Knox
+- Ivan V. Kotov
+- Victor L. Krabbendam
+- K. Simon Krughoff
+- Petr Kubánek
+- John Kuczewski
+- Shri Kulkarni
+- John Ku
+- Nadine R. Kurita
+- Craig S. Lage
+- Ron Lambert
+- Travis Lange
+- J. Brian Langton
+- Laurent Le Guillou
+- Deborah Levine
+- Ming Liang
+- Kian-Tat Lim
+- Chris J. Lintott
+- Kevin E. Long
+- Margaux Lopez
+- Paul J. Lotz
+- Robert H. Lupton
+- Nate B. Lust
+- Lauren A. MacArthur
+- Ashish Mahabal
+- Rachel Mandelbaum
+- Darren S. Marsh
+- Philip J. Marshall
+- Stuart Marshall
+- Morgan May
+- Robert McKercher
+- Michelle McQueen
+- Joshua Meyers
+- Myriam Migliore
+- Michelle Miller
+- David J. Mills
+- Connor Miraval
+- Joachim Moeyens
+- David G. Monet
+- Marc Moniez
+- Serge Monkewitz
+- Christopher Montgomery
+- Fritz Mueller
+- Gary P. Muller
+- Freddy Muñoz Arancibia
+- Douglas R. Neill
+- Scott P. Newbry
+- Jean-Yves Nief
+- Andrei Nomerotski
+- Martin Nordby
+- Paul O'Connor
+- John Oliver
+- Scot S. Olivier
+- Knut Olsen
+- William O'Mullane
+- Sandra Ortiz
+- Shawn Osier
+- Russell E. Owen
+- Reynald Pain
+- Paul E. Palecek
+- John K. Parejko
+- James B. Parsons
+- Nathan M. Pease
+- J. Matt Peterson
+- John R. Peterson
+- Donald L. Petravick
+- M. E. Libby Petrick
+- Cathy E. Petry
+- Francesco Pierfederici
+- Stephen Pietrowicz
+- Rob Pike
+- Philip A. Pinto
+- Raymond Plante
+- Stephen Plate
+- Paul A. Price
+- Michael Prouza
+- Veljko Radeka
+- Jayadev Rajagopal
+- Andrew P. Rasmussen
+- Nicolas Regnault
+- Kevin A. Reil
+- David J. Reiss
+- Michael A. Reuter
+- Stephen T. Ridgway
+- Vincent J. Riot
+- Steve Ritz
+- Sean Robinson
+- William Roby
+- Aaron Roodman
+- Wayne Rosing
+- Cecille Roucelle
+- Matthew R. Rumore
+- Stefano Russo
+- Abhijit Saha
+- Benoit Sassolas
+- Terry L. Schalk
+- Pim Schellart
+- Rafe H. Schindler
+- Samuel Schmidt
+- Donald P. Schneider
+- Michael D. Schneider
+- William Schoening
+- German Schumacher
+- Megan E. Schwamb
+- Jacques Sebag
+- Brian Selvy
+- Glenn H. Sembroski
+- Lynn G. Seppala
+- Andrew Serio
+- Eduardo Serrano
+- Richard A. Shaw
+- Ian Shipsey
+- Jonathan Sick
+- Nicole Silvestri
+- Colin T. Slater
+- J. Allyn Smith
+- R. Chris Smith
+- Shahram Sobhani
+- Christine Soldahl
+- Lisa Storrie-Lombardi
+- Edward Stover
+- Michael A. Strauss
+- Rachel A. Street
+- Christopher W. Stubbs
+- Ian S. Sullivan
+- Donald Sweeney
+- John D. Swinbank
+- Alexander Szalay
+- Peter Takacs
+- Stephen A. Tether
+- Jon J. Thaler
+- John Gregg Thayer
+- Sandrine Thomas
+- Vaikunth Thukral
+- Jeffrey Tice
+- David E. Trilling
+- Max Turri
+- Richard Van Berg
+- Daniel Vanden Berk
+- Kurt Vetter
+- Francoise Virieux
+- Tomislav Vucina
+- William Wahl
+- Lucianne Walkowicz
+- Brian Walsh
+- Christopher W. Walter
+- Daniel L. Wang
+- Shin-Yawn Wang
+- Michael Warner
+- Oliver Wiecha
+- Beth Willman
+- Scott E. Winters
+- David Wittman
+- Sidney C. Wolff
+- W. Michael Wood-Vasey
+- Xiuqin Wu
+- Bo Xin
+- Peter Yoachim
+- Hu Zhan
 abstract: "(Abridged) We describe here the most ambitious survey currently planned in the optical, the Large Synoptic Survey Telescope (LSST). A vast array of science will be enabled by a single wide-deep-fast sky survey, and LSST will have unique survey capability in the faint time domain. The LSST design is driven by four main science themes: probing dark energy and dark matter, taking an inventory of the Solar System, exploring the transient optical sky, and mapping the Milky Way. LSST will be a wide-field ground-based system sited at Cerro Pach'{o}n in northern Chile. The telescope will have an 8.4 m (6.5 m effective) primary mirror, a 9.6 deg$^2$ field of view, and a 3.2 Gigapixel camera. The standard observing sequence will consist of pairs of 15-second exposures in a given field, with two such visits in each pointing in a given night. With these repeats, the LSST system is capable of imaging about 10,000 square degrees of sky in a single filter in three nights. The typical 5$sigma$ point-source depth in a single visit in $r$ will be $sim 24.5$ (AB). The project is in the construction phase and will begin regular survey operations by 2022. The survey area will be contained within 30,000 deg$^2$ with $delta<+34.5^circ$, and will be imaged multiple times in six bands, $ugrizy$, covering the wavelength range 320--1050 nm. About 90% of the observing time will be devoted to a deep-wide-fast survey mode which will uniformly observe a 18,000 deg$^2$ region about 800 times (summed over all six bands) during the anticipated 10 years of operations, and yield a coadded map to $rsim27.5$. The remaining 10% of the observing time will be allocated to projects such as a Very Deep and Fast time domain survey. The goal is to make LSST data products, including a relational database of about 32 trillion observations of 40 billion objects, available to the public and scientists around the world."
 featured: true
 tags:

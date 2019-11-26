@@ -1,91 +1,92 @@
 ---
 title: "Total eclipse of the heart: The AM CVn Gaia14aae / ASSASN-14cn"
 date: 2015-07-16T17:34:45Z
-author: "H. C. Campbell"
-author: "T. R. Marsh"
-author: "M. Fraser"
-author: "S. T. Hodgkin"
-author: "E. de Miguel"
-author: "B. T. Gänsicke"
-author: "D. Steeghs"
-author: "A. Hourihane"
-author: "E. Breedt"
-author: "S. P. Littlefair"
-author: "S. E. Koposov"
-author: "L. Wyrzykowski"
-author: "G. Altavilla"
-author: "N. Blagorodnova"
-author: "G. Clementini"
-author: "G. Damljanovic"
-author: "A. Delgado"
-author: "M. Dennefeld"
-author: "A. J. Drake"
-author: "J. Fernández-Hernández"
-author: "G. Gilmore"
-author: "R. Gualandi"
-author: "A. Hamanowicz"
-author: "B. Handzlik"
-author: "L. K. Hardy"
-author: "D. L. Harrison"
-author: "K. Ilkiewicz"
-author: "P. G. Jonker"
-author: "C. S. Kochanek"
-author: "Z. Kolaczkowski"
-author: "Z. Kostrzewa-Rutkowska"
-author: "R. Kotak"
-author: "G. van Leeuwen"
-author: "G. Leto"
-author: "P. Ochner"
-author: "M. Pawlak"
-author: "L. Palaversa"
-author: "G. Rixon"
-author: "K. Rybicki"
-author: "B. J. Shappee"
-author: "S. J. Smartt"
-author: "M. A. P. Torres"
-author: "L. Tomasella"
-author: "M. Turatto"
-author: "K. Ulaczyk"
-author: "S. van Velzen"
-author: "O. Vince"
-author: "N. A. Walton"
-author: "P. Wielgórski"
-author: "T. Wevers"
-author: "P. Whitelock"
-author: "A. Yoldas"
-author: "F. De Angeli"
-author: "P. Burgess"
-author: "G. Busso"
-author: "R. Busuttil"
-author: "T. Butterley"
-author: "K. C. Chambers"
-author: "C. Copperwheat"
-author: "A. B. Danilet"
-author: "V. S. Dhillon"
-author: "D. W. Evans"
-author: "L. Eyer"
-author: "D. Froebrich"
-author: "A. Gomboc"
-author: "G. Holland"
-author: "T. W. -S. Holoien"
-author: "J. F. Jarvis"
-author: "N. Kaiser"
-author: "D. A. Kann"
-author: "D. Koester"
-author: "U. Kolb"
-author: "S. Komossa"
-author: "E. A. Magnier"
-author: "A. Mahabal"
-author: "J. Polshaw"
-author: "J. L. Prieto"
-author: "T. Prusti"
-author: "M. Riello"
-author: "A. Scholz"
-author: "G. Simonian"
-author: "K. Z. Stanek"
-author: "L. Szabados"
-author: "C. Waters"
-author: "R. W. Wilson"
+authors:
+- H. C. Campbell
+- T. R. Marsh
+- M. Fraser
+- S. T. Hodgkin
+- E. de Miguel
+- B. T. Gänsicke
+- D. Steeghs
+- A. Hourihane
+- E. Breedt
+- S. P. Littlefair
+- S. E. Koposov
+- L. Wyrzykowski
+- G. Altavilla
+- N. Blagorodnova
+- G. Clementini
+- G. Damljanovic
+- A. Delgado
+- M. Dennefeld
+- A. J. Drake
+- J. Fernández-Hernández
+- G. Gilmore
+- R. Gualandi
+- A. Hamanowicz
+- B. Handzlik
+- L. K. Hardy
+- D. L. Harrison
+- K. Ilkiewicz
+- P. G. Jonker
+- C. S. Kochanek
+- Z. Kolaczkowski
+- Z. Kostrzewa-Rutkowska
+- R. Kotak
+- G. van Leeuwen
+- G. Leto
+- P. Ochner
+- M. Pawlak
+- L. Palaversa
+- G. Rixon
+- K. Rybicki
+- B. J. Shappee
+- S. J. Smartt
+- M. A. P. Torres
+- L. Tomasella
+- M. Turatto
+- K. Ulaczyk
+- S. van Velzen
+- O. Vince
+- N. A. Walton
+- P. Wielgórski
+- T. Wevers
+- P. Whitelock
+- A. Yoldas
+- F. De Angeli
+- P. Burgess
+- G. Busso
+- R. Busuttil
+- T. Butterley
+- K. C. Chambers
+- C. Copperwheat
+- A. B. Danilet
+- V. S. Dhillon
+- D. W. Evans
+- L. Eyer
+- D. Froebrich
+- A. Gomboc
+- G. Holland
+- T. W. -S. Holoien
+- J. F. Jarvis
+- N. Kaiser
+- D. A. Kann
+- D. Koester
+- U. Kolb
+- S. Komossa
+- E. A. Magnier
+- A. Mahabal
+- J. Polshaw
+- J. L. Prieto
+- T. Prusti
+- M. Riello
+- A. Scholz
+- G. Simonian
+- K. Z. Stanek
+- L. Szabados
+- C. Waters
+- R. W. Wilson
 abstract: "We report the discovery and characterisation of a deeply eclipsing AM CVn-system, Gaia14aae (= ASSASN-14cn). Gaia14aae was identified independently by the All-Sky Automated Survey for Supernovae (ASAS-SN; Shappee et al. 2014) and by the Gaia Science Alerts project, during two separate outbursts. A third outburst is seen in archival Pan-STARRS-1 (PS1; Schlafly et al. 2012; Tonry et al. 2012; Magnier et al. 2013) and ASAS-SN data. Spectroscopy reveals a hot, hydrogen-deficient spectrum with clear double-peaked emission lines, consistent with an accreting double degenerate classification. We use follow-up photometry to constrain the orbital parameters of the system. We find an orbital period of 49.71 min, which places Gaia14aae at the long period extremum of the outbursting AM CVn period distribution. Gaia14aae is dominated by the light from its accreting white dwarf. Assuming an orbital inclination of 90 degrees for the binary system, the contact phases of the white dwarf lead to lower limits of 0.78 M solar and 0.015 M solar on the masses of the accretor and donor respectively and a lower limit on the mass ratio of 0.019. Gaia14aae is only the third eclipsing AM CVn star known, and the first in which the WD is totally eclipsed. Using a helium WD model, we estimate the accretor's effective temperature to be 12900+-200 K. The three out-burst events occurred within 4 months of each other, while no other outburst activity is seen in the previous 8 years of Catalina Real-time Transient Survey (CRTS; Drake et al. 2009), Pan-STARRS-1 and ASAS-SN data. This suggests that these events might be rebrightenings of the first outburst rather than individual events."
 featured: true
 tags:

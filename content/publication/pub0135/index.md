@@ -1,123 +1,124 @@
 ---
 title: "The Zwicky Transient Facility: Science Objectives"
 date: 2019-02-05T22:04:38Z
-author: "Matthew J. Graham"
-author: "S. R. Kulkarni"
-author: "Eric C. Bellm"
-author: "Scott M. Adams"
-author: "Cristina Barbarino"
-author: "Nadejda Blagorodnova"
-author: "Dennis Bodewits"
-author: "Bryce Bolin"
-author: "Patrick R. Brady"
-author: "S. Bradley Cenko"
-author: "Chan-Kao Chang"
-author: "Michael W. Coughlin"
-author: "Kishalay De"
-author: "Gwendolyn Eadie"
-author: "Tony L. Farnham"
-author: "Ulrich Feindt"
-author: "Anna Franckowiak"
-author: "Christoffer Fremling"
-author: "Avishay Gal-yam"
-author: "Suvi Gezari"
-author: "Shaon Ghosh"
-author: "Daniel A. Goldstein"
-author: "V. Zach Golkhou"
-author: "Ariel Goobar"
-author: "Anna Y. Q. Ho"
-author: "Daniela Huppenkothen"
-author: "Zeljko Ivezic"
-author: "R. Lynne Jones"
-author: "Mario Juric"
-author: "David L. Kaplan"
-author: "Mansi M. Kasliwal"
-author: "Michael S. P. Kelley"
-author: "Thomas Kupfer"
-author: "Chien-De Lee"
-author: "Hsing Wen Lin"
-author: "Ragnhild Lunnan"
-author: "Ashish A. Mahabal"
-author: "Adam A. Miller"
-author: "Chow-Choong Ngeow"
-author: "Peter Nugent"
-author: "Eran O. Ofek"
-author: "Thomas A. Prince"
-author: "Ludwig Rauch"
-author: "Jan van Roestel"
-author: "Steve Schulze"
-author: "Leo P. Singer"
-author: "Jesper Sollerman"
-author: "Francesco Taddia"
-author: "Lin Yan"
-author: "Quan-Zhi Ye"
-author: "Po-Chieh Yu"
-author: "Igor Andreoni"
-author: "Tom Barlow"
-author: "James Bauer"
-author: "Ron Beck"
-author: "Justin Belicki"
-author: "Rahul Biswas"
-author: "Valery Brinnel"
-author: "Tim Brooke"
-author: "Brian Bue"
-author: "Mattia Bulla"
-author: "Kevin Burdge"
-author: "Rick Burruss"
-author: "Andrew Connolly"
-author: "John Cromer"
-author: "Virginia Cunningham"
-author: "Richard Dekany"
-author: "Alex Delacroix"
-author: "Vandana Desai"
-author: "Dmitry A. Duev"
-author: "Eugean Hacopians"
-author: "David Hale"
-author: "George Helou"
-author: "John Henning"
-author: "David Hover"
-author: "Lynne A. Hillenbrand"
-author: "Justin Howell"
-author: "Tiara Hung"
-author: "David Imel"
-author: "Wing-Huen Ip"
-author: "Edward Jackson"
-author: "Shai Kaspi"
-author: "Stephen Kaye"
-author: "Marek Kowalski"
-author: "Emily Kramer"
-author: "Michael Kuhn"
-author: "Walter Landry"
-author: "Russ R. Laher"
-author: "Peter Mao"
-author: "Frank J. Masci"
-author: "Serge Monkewitz"
-author: "Patrick Murphy"
-author: "Jakob Nordin"
-author: "Maria T. Patterson"
-author: "Bryan Penprase"
-author: "Michael Porter"
-author: "Umaa Rebbapragada"
-author: "Dan Reiley"
-author: "Reed Riddle"
-author: "Mickael Rigault"
-author: "Hector Rodriguez"
-author: "Ben Rusholme"
-author: "Jakob van Santen"
-author: "David L. Shupe"
-author: "Roger M. Smith"
-author: "Maayane T. Soumagnac"
-author: "Robert Stein"
-author: "Jason Surace"
-author: "Paula Szkody"
-author: "Scott Terek"
-author: "Angela van Sistine"
-author: "Sjoert van Velzen"
-author: "W. Thomas Vestrand"
-author: "Richard Walters"
-author: "Charlotte Ward"
-author: "Chaoran Zhang"
-author: "Jeffry Zolkower"
+authors:
+- Matthew J. Graham
+- S. R. Kulkarni
+- Eric C. Bellm
+- Scott M. Adams
+- Cristina Barbarino
+- Nadejda Blagorodnova
+- Dennis Bodewits
+- Bryce Bolin
+- Patrick R. Brady
+- S. Bradley Cenko
+- Chan-Kao Chang
+- Michael W. Coughlin
+- Kishalay De
+- Gwendolyn Eadie
+- Tony L. Farnham
+- Ulrich Feindt
+- Anna Franckowiak
+- Christoffer Fremling
+- Avishay Gal-yam
+- Suvi Gezari
+- Shaon Ghosh
+- Daniel A. Goldstein
+- V. Zach Golkhou
+- Ariel Goobar
+- Anna Y. Q. Ho
+- Daniela Huppenkothen
+- Zeljko Ivezic
+- R. Lynne Jones
+- Mario Juric
+- David L. Kaplan
+- Mansi M. Kasliwal
+- Michael S. P. Kelley
+- Thomas Kupfer
+- Chien-De Lee
+- Hsing Wen Lin
+- Ragnhild Lunnan
+- Ashish A. Mahabal
+- Adam A. Miller
+- Chow-Choong Ngeow
+- Peter Nugent
+- Eran O. Ofek
+- Thomas A. Prince
+- Ludwig Rauch
+- Jan van Roestel
+- Steve Schulze
+- Leo P. Singer
+- Jesper Sollerman
+- Francesco Taddia
+- Lin Yan
+- Quan-Zhi Ye
+- Po-Chieh Yu
+- Igor Andreoni
+- Tom Barlow
+- James Bauer
+- Ron Beck
+- Justin Belicki
+- Rahul Biswas
+- Valery Brinnel
+- Tim Brooke
+- Brian Bue
+- Mattia Bulla
+- Kevin Burdge
+- Rick Burruss
+- Andrew Connolly
+- John Cromer
+- Virginia Cunningham
+- Richard Dekany
+- Alex Delacroix
+- Vandana Desai
+- Dmitry A. Duev
+- Eugean Hacopians
+- David Hale
+- George Helou
+- John Henning
+- David Hover
+- Lynne A. Hillenbrand
+- Justin Howell
+- Tiara Hung
+- David Imel
+- Wing-Huen Ip
+- Edward Jackson
+- Shai Kaspi
+- Stephen Kaye
+- Marek Kowalski
+- Emily Kramer
+- Michael Kuhn
+- Walter Landry
+- Russ R. Laher
+- Peter Mao
+- Frank J. Masci
+- Serge Monkewitz
+- Patrick Murphy
+- Jakob Nordin
+- Maria T. Patterson
+- Bryan Penprase
+- Michael Porter
+- Umaa Rebbapragada
+- Dan Reiley
+- Reed Riddle
+- Mickael Rigault
+- Hector Rodriguez
+- Ben Rusholme
+- Jakob van Santen
+- David L. Shupe
+- Roger M. Smith
+- Maayane T. Soumagnac
+- Robert Stein
+- Jason Surace
+- Paula Szkody
+- Scott Terek
+- Angela van Sistine
+- Sjoert van Velzen
+- W. Thomas Vestrand
+- Richard Walters
+- Charlotte Ward
+- Chaoran Zhang
+- Jeffry Zolkower
 abstract: "The Zwicky Transient Facility (ZTF), a public-private enterprise, is a new time domain survey employing a dedicated camera on the Palomar 48-inch Schmidt telescope with a 47 deg$^2$ field of view and 8 second readout time. It is well positioned in the development of time domain astronomy, offering operations at 10% of the scale and style of the Large Synoptic Survey Telescope (LSST) with a single 1-m class survey telescope. The public surveys will cover the observable northern sky every three nights in g and r filters and the visible Galactic plane every night in g and r. Alerts generated by these surveys are sent in real time to brokers. A consortium of universities which provided funding ( arcsecpartnership arcsec) are undertaking several boutique surveys. The combination of these surveys producing one million alerts per night allows for exploration of transient and variable astrophysical phenomena brighter than r $sim$ 20.5 on timescales of minutes to years. We describe the primary science objectives driving ZTF including the physics of supernovae and relativistic explosions, multi-messenger astrophysics, supernova cosmology, active galactic nuclei and tidal disruption events, stellar variability, and Solar System objects."
 featured: true
 tags:

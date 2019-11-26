@@ -1,58 +1,59 @@
 ---
 title: "Astro2020 Science White Paper: The Next Decade of Astroinformatics and   Astrostatistics"
 date: 2019-03-15T20:43:59Z
-author: "A. Siemiginowska"
-author: "G. Eadie"
-author: "I. Czekala"
-author: "E. Feigelson"
-author: "E. B. Ford"
-author: "V. Kashyap"
-author: "M. Kuhn"
-author: "T. Loredo"
-author: "M. Ntampaka"
-author: "A. Stevens"
-author: "A. Avelino"
-author: "K. Borne"
-author: "T. Budavari"
-author: "B. Burkhart"
-author: "J. Cisewski-Kehe"
-author: "F. Civano"
-author: "I. Chilingarian"
-author: "D. A. van Dyk"
-author: "G. Fabbiano"
-author: "D. P. Finkbeiner"
-author: "D. Foreman-Mackey"
-author: "P. Freeman"
-author: "A. Fruscione"
-author: "A. A. Goodman"
-author: "M. Graham"
-author: "H. M. Guenther"
-author: "J. Hakkila"
-author: "L. Hernquist"
-author: "D. Huppenkothen"
-author: "D. J. James"
-author: "C. Law"
-author: "J. Lazio"
-author: "T. Lee"
-author: "M. López-Morales"
-author: "A. A. Mahabal"
-author: "K. Mandel"
-author: "X. L. Meng"
-author: "J. Moustakas"
-author: "D. Muna"
-author: "J. E. G. Peek"
-author: "G. Richards"
-author: "S. K. N. Portillo"
-author: "J. Scargle"
-author: "R. S. de Souza"
-author: "J. S. Speagle"
-author: "K. G. Stassun"
-author: "D. C. Stenning"
-author: "S. R. Taylor"
-author: "G. R. Tremblay"
-author: "V. Trimble"
-author: "P. A. Yanamandra-Fisher"
-author: "C. A. Young"
+authors:
+- A. Siemiginowska
+- G. Eadie
+- I. Czekala
+- E. Feigelson
+- E. B. Ford
+- V. Kashyap
+- M. Kuhn
+- T. Loredo
+- M. Ntampaka
+- A. Stevens
+- A. Avelino
+- K. Borne
+- T. Budavari
+- B. Burkhart
+- J. Cisewski-Kehe
+- F. Civano
+- I. Chilingarian
+- D. A. van Dyk
+- G. Fabbiano
+- D. P. Finkbeiner
+- D. Foreman-Mackey
+- P. Freeman
+- A. Fruscione
+- A. A. Goodman
+- M. Graham
+- H. M. Guenther
+- J. Hakkila
+- L. Hernquist
+- D. Huppenkothen
+- D. J. James
+- C. Law
+- J. Lazio
+- T. Lee
+- M. López-Morales
+- A. A. Mahabal
+- K. Mandel
+- X. L. Meng
+- J. Moustakas
+- D. Muna
+- J. E. G. Peek
+- G. Richards
+- S. K. N. Portillo
+- J. Scargle
+- R. S. de Souza
+- J. S. Speagle
+- K. G. Stassun
+- D. C. Stenning
+- S. R. Taylor
+- G. R. Tremblay
+- V. Trimble
+- P. A. Yanamandra-Fisher
+- C. A. Young
 abstract: "Over the past century, major advances in astronomy and astrophysics have been largely driven by improvements in instrumentation and data collection. With the amassing of high quality data from new telescopes, and especially with the advent of deep and large astronomical surveys, it is becoming clear that future advances will also rely heavily on how those data are analyzed and interpreted. New methodologies derived from advances in statistics, computer science, and machine learning are beginning to be employed in sophisticated investigations that are not only bringing forth new discoveries, but are placing them on a solid footing. Progress in wide-field sky surveys, interferometric imaging, precision cosmology, exoplanet detection and characterization, and many subfields of stellar, Galactic and extragalactic astronomy, has resulted in complex data analysis challenges that must be solved to perform scientific inference. Research in astrostatistics and astroinformatics will be necessary to develop the state-of-the-art methodology needed in astronomy. Overcoming these challenges requires dedicated, interdisciplinary research. We recommend: (1) increasing funding for interdisciplinary projects in astrostatistics and astroinformatics; (2) dedicating space and time at conferences for interdisciplinary research and promotion; (3) developing sustainable funding for long-term astrostatisics appointments; and (4) funding infrastructure development for data archives and archive support, state-of-the-art algorithms, and efficient computing."
 featured: true
 tags:

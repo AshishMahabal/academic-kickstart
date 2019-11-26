@@ -1,254 +1,255 @@
 ---
 title: "LSST Science Book, Version 2.0"
 date: 2009-12-01T16:50:56Z
-author: "LSST Science Collaboration"
-author: "Paul A. Abell"
-author: "Julius Allison"
-author: "Scott F. Anderson"
-author: "John R. Andrew"
-author: "J. Roger P. Angel"
-author: "Lee Armus"
-author: "David Arnett"
-author: "S. J. Asztalos"
-author: "Tim S. Axelrod"
-author: "Stephen Bailey"
-author: "D. R. Ballantyne"
-author: "Justin R. Bankert"
-author: "Wayne A. Barkhouse"
-author: "Jeffrey D. Barr"
-author: "L. Felipe Barrientos"
-author: "Aaron J. Barth"
-author: "James G. Bartlett"
-author: "Andrew C. Becker"
-author: "Jacek Becla"
-author: "Timothy C. Beers"
-author: "Joseph P. Bernstein"
-author: "Rahul Biswas"
-author: "Michael R. Blanton"
-author: "Joshua S. Bloom"
-author: "John J. Bochanski"
-author: "Pat Boeshaar"
-author: "Kirk D. Borne"
-author: "Marusa Bradac"
-author: "W. N. Brandt"
-author: "Carrie R. Bridge"
-author: "Michael E. Brown"
-author: "Robert J. Brunner"
-author: "James S. Bullock"
-author: "Adam J. Burgasser"
-author: "James H. Burge"
-author: "David L. Burke"
-author: "Phillip A. Cargile"
-author: "Srinivasan Chandrasekharan"
-author: "George Chartas"
-author: "Steven R. Chesley"
-author: "You-Hua Chu"
-author: "David Cinabro"
-author: "Mark W. Claire"
-author: "Charles F. Claver"
-author: "Douglas Clowe"
-author: "A. J. Connolly"
-author: "Kem H. Cook"
-author: "Jeff Cooke"
-author: "Asantha Cooray"
-author: "Kevin R. Covey"
-author: "Christopher S. Culliton"
-author: "Roelof de Jong"
-author: "Willem H. de Vries"
-author: "Victor P. Debattista"
-author: "Francisco Delgado"
-author: "Ian P. Dell'Antonio"
-author: "Saurav Dhital"
-author: "Rosanne Di Stefano"
-author: "Mark Dickinson"
-author: "Benjamin Dilday"
-author: "S. G. Djorgovski"
-author: "Gregory Dobler"
-author: "Ciro Donalek"
-author: "Gregory Dubois-Felsmann"
-author: "Josef Durech"
-author: "Ardis Eliasdottir"
-author: "Michael Eracleous"
-author: "Laurent Eyer"
-author: "Emilio E. Falco"
-author: "Xiaohui Fan"
-author: "Christopher D. Fassnacht"
-author: "Harry C. Ferguson"
-author: "Yanga R. Fernandez"
-author: "Brian D. Fields"
-author: "Douglas Finkbeiner"
-author: "Eduardo E. Figueroa"
-author: "Derek B. Fox"
-author: "Harold Francke"
-author: "James S. Frank"
-author: "Josh Frieman"
-author: "Sebastien Fromenteau"
-author: "Muhammad Furqan"
-author: "Gaspar Galaz"
-author: "A. Gal-Yam"
-author: "Peter Garnavich"
-author: "Eric Gawiser"
-author: "John Geary"
-author: "Perry Gee"
-author: "Robert R. Gibson"
-author: "Kirk Gilmore"
-author: "Emily A. Grace"
-author: "Richard F. Green"
-author: "William J. Gressler"
-author: "Carl J. Grillmair"
-author: "Salman Habib"
-author: "J. S. Haggerty"
-author: "Mario Hamuy"
-author: "Alan W. Harris"
-author: "Suzanne L. Hawley"
-author: "Alan F. Heavens"
-author: "Leslie Hebb"
-author: "Todd J. Henry"
-author: "Edward Hileman"
-author: "Eric J. Hilton"
-author: "Keri Hoadley"
-author: "J. B. Holberg"
-author: "Matt J. Holman"
-author: "Steve B. Howell"
-author: "Leopoldo Infante"
-author: "Zeljko Ivezic"
-author: "Suzanne H. Jacoby"
-author: "Bhuvnesh Jain"
-author: "R"
-author: "Jedicke"
-author: "M. James Jee"
-author: "J. Garrett Jernigan"
-author: "Saurabh W. Jha"
-author: "Kathryn V. Johnston"
-author: "R. Lynne Jones"
-author: "Mario Juric"
-author: "Mikko Kaasalainen"
-author: "Styliani"
-author: "Kafka"
-author: "Steven M. Kahn"
-author: "Nathan A. Kaib"
-author: "Jason Kalirai"
-author: "Jeff Kantor"
-author: "Mansi M. Kasliwal"
-author: "Charles R. Keeton"
-author: "Richard Kessler"
-author: "Zoran Knezevic"
-author: "Adam Kowalski"
-author: "Victor L. Krabbendam"
-author: "K. Simon Krughoff"
-author: "Shrinivas Kulkarni"
-author: "Stephen Kuhlman"
-author: "Mark Lacy"
-author: "Sebastien Lepine"
-author: "Ming Liang"
-author: "Amy Lien"
-author: "Paulina Lira"
-author: "Knox S. Long"
-author: "Suzanne Lorenz"
-author: "Jennifer M. Lotz"
-author: "R. H. Lupton"
-author: "Julie Lutz"
-author: "Lucas M. Macri"
-author: "Ashish A. Mahabal"
-author: "Rachel Mandelbaum"
-author: "Phil Marshall"
-author: "Morgan May"
-author: "Peregrine M. McGehee"
-author: "Brian T. Meadows"
-author: "Alan Meert"
-author: "Andrea Milani"
-author: "Christopher J. Miller"
-author: "Michelle Miller"
-author: "David Mills"
-author: "Dante Minniti"
-author: "David Monet"
-author: "Anjum S. Mukadam"
-author: "Ehud Nakar"
-author: "Douglas R. Neill"
-author: "Jeffrey A. Newman"
-author: "Sergei Nikolaev"
-author: "Martin Nordby"
-author: "Paul O'Connor"
-author: "Masamune Oguri"
-author: "John Oliver"
-author: "Scot S. Olivier"
-author: "Julia K. Olsen"
-author: "Knut Olsen"
-author: "Edward W. Olszewski"
-author: "Hakeem Oluseyi"
-author: "Nelson D. Padilla"
-author: "Alex Parker"
-author: "Joshua Pepper"
-author: "John R. Peterson"
-author: "Catherine Petry"
-author: "Philip A. Pinto"
-author: "James L. Pizagno"
-author: "Bogdan Popescu"
-author: "Andrej Prsa"
-author: "Veljko Radcka"
-author: "M. Jordan Raddick"
-author: "Andrew Rasmussen"
-author: "Arne Rau"
-author: "Jeonghee Rho"
-author: "James E. Rhoads"
-author: "Gordon T. Richards"
-author: "Stephen T. Ridgway"
-author: "Brant E. Robertson"
-author: "Rok Roskar"
-author: "Abhijit Saha"
-author: "Ata Sarajedini"
-author: "Evan Scannapieco"
-author: "Terry Schalk"
-author: "Rafe Schindler"
-author: "Samuel Schmidt"
-author: "Sarah Schmidt"
-author: "Donald P. Schneider"
-author: "German Schumacher"
-author: "Ryan Scranton"
-author: "Jacques Sebag"
-author: "Lynn G. Seppala"
-author: "Ohad Shemmer"
-author: "Joshua D. Simon"
-author: "M. Sivertz"
-author: "Howard A. Smith"
-author: "J. Allyn Smith"
-author: "Nathan Smith"
-author: "Anna H. Spitz"
-author: "Adam Stanford"
-author: "Keivan G. Stassun"
-author: "Jay Strader"
-author: "Michael A. Strauss"
-author: "Christopher W. Stubbs"
-author: "Donald W. Sweeney"
-author: "Alex Szalay"
-author: "Paula Szkody"
-author: "Masahiro Takada"
-author: "Paul Thorman"
-author: "David E. Trilling"
-author: "Virginia Trimble"
-author: "Anthony Tyson"
-author: "Richard Van Berg"
-author: "Daniel Vanden Berk"
-author: "Jake VanderPlas"
-author: "Licia Verde"
-author: "Bojan Vrsnak"
-author: "Lucianne M. Walkowicz"
-author: "Benjamin D. Wandelt"
-author: "Sheng Wang"
-author: "Yun Wang"
-author: "Michael Warner"
-author: "Risa H. Wechsler"
-author: "Andrew A. West"
-author: "Oliver Wiecha"
-author: "Benjamin F. Williams"
-author: "Beth Willman"
-author: "David Wittman"
-author: "Sidney C. Wolff"
-author: "W. Michael Wood-Vasey"
-author: "Przemek Wozniak"
-author: "Patrick Young"
-author: "Andrew Zentner"
-author: "Hu Zhan"
+authors:
+- LSST Science Collaboration
+- Paul A. Abell
+- Julius Allison
+- Scott F. Anderson
+- John R. Andrew
+- J. Roger P. Angel
+- Lee Armus
+- David Arnett
+- S. J. Asztalos
+- Tim S. Axelrod
+- Stephen Bailey
+- D. R. Ballantyne
+- Justin R. Bankert
+- Wayne A. Barkhouse
+- Jeffrey D. Barr
+- L. Felipe Barrientos
+- Aaron J. Barth
+- James G. Bartlett
+- Andrew C. Becker
+- Jacek Becla
+- Timothy C. Beers
+- Joseph P. Bernstein
+- Rahul Biswas
+- Michael R. Blanton
+- Joshua S. Bloom
+- John J. Bochanski
+- Pat Boeshaar
+- Kirk D. Borne
+- Marusa Bradac
+- W. N. Brandt
+- Carrie R. Bridge
+- Michael E. Brown
+- Robert J. Brunner
+- James S. Bullock
+- Adam J. Burgasser
+- James H. Burge
+- David L. Burke
+- Phillip A. Cargile
+- Srinivasan Chandrasekharan
+- George Chartas
+- Steven R. Chesley
+- You-Hua Chu
+- David Cinabro
+- Mark W. Claire
+- Charles F. Claver
+- Douglas Clowe
+- A. J. Connolly
+- Kem H. Cook
+- Jeff Cooke
+- Asantha Cooray
+- Kevin R. Covey
+- Christopher S. Culliton
+- Roelof de Jong
+- Willem H. de Vries
+- Victor P. Debattista
+- Francisco Delgado
+- Ian P. Dell'Antonio
+- Saurav Dhital
+- Rosanne Di Stefano
+- Mark Dickinson
+- Benjamin Dilday
+- S. G. Djorgovski
+- Gregory Dobler
+- Ciro Donalek
+- Gregory Dubois-Felsmann
+- Josef Durech
+- Ardis Eliasdottir
+- Michael Eracleous
+- Laurent Eyer
+- Emilio E. Falco
+- Xiaohui Fan
+- Christopher D. Fassnacht
+- Harry C. Ferguson
+- Yanga R. Fernandez
+- Brian D. Fields
+- Douglas Finkbeiner
+- Eduardo E. Figueroa
+- Derek B. Fox
+- Harold Francke
+- James S. Frank
+- Josh Frieman
+- Sebastien Fromenteau
+- Muhammad Furqan
+- Gaspar Galaz
+- A. Gal-Yam
+- Peter Garnavich
+- Eric Gawiser
+- John Geary
+- Perry Gee
+- Robert R. Gibson
+- Kirk Gilmore
+- Emily A. Grace
+- Richard F. Green
+- William J. Gressler
+- Carl J. Grillmair
+- Salman Habib
+- J. S. Haggerty
+- Mario Hamuy
+- Alan W. Harris
+- Suzanne L. Hawley
+- Alan F. Heavens
+- Leslie Hebb
+- Todd J. Henry
+- Edward Hileman
+- Eric J. Hilton
+- Keri Hoadley
+- J. B. Holberg
+- Matt J. Holman
+- Steve B. Howell
+- Leopoldo Infante
+- Zeljko Ivezic
+- Suzanne H. Jacoby
+- Bhuvnesh Jain
+- R
+- Jedicke
+- M. James Jee
+- J. Garrett Jernigan
+- Saurabh W. Jha
+- Kathryn V. Johnston
+- R. Lynne Jones
+- Mario Juric
+- Mikko Kaasalainen
+- Styliani
+- Kafka
+- Steven M. Kahn
+- Nathan A. Kaib
+- Jason Kalirai
+- Jeff Kantor
+- Mansi M. Kasliwal
+- Charles R. Keeton
+- Richard Kessler
+- Zoran Knezevic
+- Adam Kowalski
+- Victor L. Krabbendam
+- K. Simon Krughoff
+- Shrinivas Kulkarni
+- Stephen Kuhlman
+- Mark Lacy
+- Sebastien Lepine
+- Ming Liang
+- Amy Lien
+- Paulina Lira
+- Knox S. Long
+- Suzanne Lorenz
+- Jennifer M. Lotz
+- R. H. Lupton
+- Julie Lutz
+- Lucas M. Macri
+- Ashish A. Mahabal
+- Rachel Mandelbaum
+- Phil Marshall
+- Morgan May
+- Peregrine M. McGehee
+- Brian T. Meadows
+- Alan Meert
+- Andrea Milani
+- Christopher J. Miller
+- Michelle Miller
+- David Mills
+- Dante Minniti
+- David Monet
+- Anjum S. Mukadam
+- Ehud Nakar
+- Douglas R. Neill
+- Jeffrey A. Newman
+- Sergei Nikolaev
+- Martin Nordby
+- Paul O'Connor
+- Masamune Oguri
+- John Oliver
+- Scot S. Olivier
+- Julia K. Olsen
+- Knut Olsen
+- Edward W. Olszewski
+- Hakeem Oluseyi
+- Nelson D. Padilla
+- Alex Parker
+- Joshua Pepper
+- John R. Peterson
+- Catherine Petry
+- Philip A. Pinto
+- James L. Pizagno
+- Bogdan Popescu
+- Andrej Prsa
+- Veljko Radcka
+- M. Jordan Raddick
+- Andrew Rasmussen
+- Arne Rau
+- Jeonghee Rho
+- James E. Rhoads
+- Gordon T. Richards
+- Stephen T. Ridgway
+- Brant E. Robertson
+- Rok Roskar
+- Abhijit Saha
+- Ata Sarajedini
+- Evan Scannapieco
+- Terry Schalk
+- Rafe Schindler
+- Samuel Schmidt
+- Sarah Schmidt
+- Donald P. Schneider
+- German Schumacher
+- Ryan Scranton
+- Jacques Sebag
+- Lynn G. Seppala
+- Ohad Shemmer
+- Joshua D. Simon
+- M. Sivertz
+- Howard A. Smith
+- J. Allyn Smith
+- Nathan Smith
+- Anna H. Spitz
+- Adam Stanford
+- Keivan G. Stassun
+- Jay Strader
+- Michael A. Strauss
+- Christopher W. Stubbs
+- Donald W. Sweeney
+- Alex Szalay
+- Paula Szkody
+- Masahiro Takada
+- Paul Thorman
+- David E. Trilling
+- Virginia Trimble
+- Anthony Tyson
+- Richard Van Berg
+- Daniel Vanden Berk
+- Jake VanderPlas
+- Licia Verde
+- Bojan Vrsnak
+- Lucianne M. Walkowicz
+- Benjamin D. Wandelt
+- Sheng Wang
+- Yun Wang
+- Michael Warner
+- Risa H. Wechsler
+- Andrew A. West
+- Oliver Wiecha
+- Benjamin F. Williams
+- Beth Willman
+- David Wittman
+- Sidney C. Wolff
+- W. Michael Wood-Vasey
+- Przemek Wozniak
+- Patrick Young
+- Andrew Zentner
+- Hu Zhan
 abstract: "A survey that can cover the sky in optical bands over wide fields to faint magnitudes with a fast cadence will enable many of the exciting science opportunities of the next decade. The Large Synoptic Survey Telescope (LSST) will have an effective aperture of 6.7 meters and an imaging camera with field of view of 9.6 deg^2, and will be devoted to a ten-year imaging survey over 20,000 deg^2 south of +15 deg. Each pointing will be imaged 2000 times with fifteen second exposures in six broad bands from 0.35 to 1.1 microns, to a total point-source depth of r~27.5. The LSST Science Book describes the basic parameters of the LSST hardware, software, and observing plans. The book discusses educational and outreach opportunities, then goes on to describe a broad range of science that LSST will revolutionize: mapping the inner and outer Solar System, stellar populations in the Milky Way and nearby galaxies, the structure of the Milky Way disk and halo and other objects in the Local Volume, transient and variable objects both at low and high redshift, and the properties of normal and active galaxies at low and high redshift. It then turns to far-field cosmological topics, exploring properties of supernovae to z~1, strong and weak lensing, the large-scale distribution of galaxies and baryon oscillations, and how these different probes may be combined to constrain cosmological models and the physics of dark energy."
 featured: true
 tags:

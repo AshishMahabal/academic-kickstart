@@ -1,111 +1,112 @@
 ---
 title: "Science-Driven Optimization of the LSST Observing Strategy"
 date: 2017-08-14T10:09:27Z
-author: "LSST Science Collaboration"
-author: "Phil Marshall"
-author: "Timo Anguita"
-author: "Federica B. Bianco"
-author: "Eric C. Bellm"
-author: "Niel Brandt"
-author: "Will Clarkson"
-author: "Andy Connolly"
-author: "Eric Gawiser"
-author: "Zeljko Ivezic"
-author: "Lynne Jones"
-author: "Michelle Lochner"
-author: "Michael B. Lund"
-author: "Ashish Mahabal"
-author: "David Nidever"
-author: "Knut Olsen"
-author: "Stephen Ridgway"
-author: "Jason Rhodes"
-author: "Ohad Shemmer"
-author: "David Trilling"
-author: "Kathy Vivas"
-author: "Lucianne Walkowicz"
-author: "Beth Willman"
-author: "Peter Yoachim"
-author: "Scott Anderson"
-author: "Pierre Antilogus"
-author: "Ruth Angus"
-author: "Iair Arcavi"
-author: "Humna Awan"
-author: "Rahul Biswas"
-author: "Keaton J. Bell"
-author: "David Bennett"
-author: "Chris Britt"
-author: "Derek Buzasi"
-author: "Dana I. Casetti-Dinescu"
-author: "Laura Chomiuk"
-author: "Chuck Claver"
-author: "Kem Cook"
-author: "James Davenport"
-author: "Victor Debattista"
-author: "Seth Digel"
-author: "Zoheyr Doctor"
-author: "R. E. Firth"
-author: "Ryan Foley"
-author: "Wen-fai Fong"
-author: "Lluis Galbany"
-author: "Mark Giampapa"
-author: "John E. Gizis"
-author: "Melissa L. Graham"
-author: "Carl Grillmair"
-author: "Phillipe Gris"
-author: "Zoltan Haiman"
-author: "Patrick Hartigan"
-author: "Suzanne Hawley"
-author: "Renee Hlozek"
-author: "Saurabh W. Jha"
-author: "C. Johns-Krull"
-author: "Shashi Kanbur"
-author: "Vassiliki Kalogera"
-author: "Vinay Kashyap"
-author: "Vishal Kasliwal"
-author: "Richard Kessler"
-author: "Alex Kim"
-author: "Peter Kurczynski"
-author: "Ofer Lahav"
-author: "Michael C. Liu"
-author: "Alex Malz"
-author: "Raffaella Margutti"
-author: "Tom Matheson"
-author: "Jason D. McEwen"
-author: "Peregrine McGehee"
-author: "Soren Meibom"
-author: "Josh Meyers"
-author: "Dave Monet"
-author: "Eric Neilsen"
-author: "Jeffrey Newman"
-author: "Matt O'Dowd"
-author: "Hiranya V. Peiris"
-author: "Matthew T. Penny"
-author: "Christina Peters"
-author: "Radoslaw Poleski"
-author: "Kara Ponder"
-author: "Gordon Richards"
-author: "Jeonghee Rho"
-author: "David Rubin"
-author: "Samuel Schmidt"
-author: "Robert L. Schuhmann"
-author: "Avi Shporer"
-author: "Colin Slater"
-author: "Nathan Smith"
-author: "Marcelles Soares-Santos"
-author: "Keivan Stassun"
-author: "Jay Strader"
-author: "Michael Strauss"
-author: "Rachel Street"
-author: "Christopher Stubbs"
-author: "Mark Sullivan"
-author: "Paula Szkody"
-author: "Virginia Trimble"
-author: "Tony Tyson"
-author: "Miguel de Val-Borro"
-author: "Stefano Valenti"
-author: "Robert Wagoner"
-author: "W. Michael Wood-Vasey"
-author: "Bevin Ashley Zauderer"
+authors:
+- LSST Science Collaboration
+- Phil Marshall
+- Timo Anguita
+- Federica B. Bianco
+- Eric C. Bellm
+- Niel Brandt
+- Will Clarkson
+- Andy Connolly
+- Eric Gawiser
+- Zeljko Ivezic
+- Lynne Jones
+- Michelle Lochner
+- Michael B. Lund
+- Ashish Mahabal
+- David Nidever
+- Knut Olsen
+- Stephen Ridgway
+- Jason Rhodes
+- Ohad Shemmer
+- David Trilling
+- Kathy Vivas
+- Lucianne Walkowicz
+- Beth Willman
+- Peter Yoachim
+- Scott Anderson
+- Pierre Antilogus
+- Ruth Angus
+- Iair Arcavi
+- Humna Awan
+- Rahul Biswas
+- Keaton J. Bell
+- David Bennett
+- Chris Britt
+- Derek Buzasi
+- Dana I. Casetti-Dinescu
+- Laura Chomiuk
+- Chuck Claver
+- Kem Cook
+- James Davenport
+- Victor Debattista
+- Seth Digel
+- Zoheyr Doctor
+- R. E. Firth
+- Ryan Foley
+- Wen-fai Fong
+- Lluis Galbany
+- Mark Giampapa
+- John E. Gizis
+- Melissa L. Graham
+- Carl Grillmair
+- Phillipe Gris
+- Zoltan Haiman
+- Patrick Hartigan
+- Suzanne Hawley
+- Renee Hlozek
+- Saurabh W. Jha
+- C. Johns-Krull
+- Shashi Kanbur
+- Vassiliki Kalogera
+- Vinay Kashyap
+- Vishal Kasliwal
+- Richard Kessler
+- Alex Kim
+- Peter Kurczynski
+- Ofer Lahav
+- Michael C. Liu
+- Alex Malz
+- Raffaella Margutti
+- Tom Matheson
+- Jason D. McEwen
+- Peregrine McGehee
+- Soren Meibom
+- Josh Meyers
+- Dave Monet
+- Eric Neilsen
+- Jeffrey Newman
+- Matt O'Dowd
+- Hiranya V. Peiris
+- Matthew T. Penny
+- Christina Peters
+- Radoslaw Poleski
+- Kara Ponder
+- Gordon Richards
+- Jeonghee Rho
+- David Rubin
+- Samuel Schmidt
+- Robert L. Schuhmann
+- Avi Shporer
+- Colin Slater
+- Nathan Smith
+- Marcelles Soares-Santos
+- Keivan Stassun
+- Jay Strader
+- Michael Strauss
+- Rachel Street
+- Christopher Stubbs
+- Mark Sullivan
+- Paula Szkody
+- Virginia Trimble
+- Tony Tyson
+- Miguel de Val-Borro
+- Stefano Valenti
+- Robert Wagoner
+- W. Michael Wood-Vasey
+- Bevin Ashley Zauderer
 abstract: "The Large Synoptic Survey Telescope is designed to provide an unprecedented optical imaging dataset that will support investigations of our Solar System, Galaxy and Universe, across half the sky and over ten years of repeated observation. However, exactly how the LSST observations will be taken (the observing strategy or  arcseccadence arcsec) is not yet finalized. In this dynamically-evolving community white paper, we explore how the detailed performance of the anticipated science investigations is expected to depend on small changes to the LSST observing strategy. Using realistic simulations of the LSST schedule and observation properties, we design and compute diagnostic metrics and Figures of Merit that provide quantitative evaluations of different observing strategies, analyzing their impact on a wide range of proposed science projects. This is work in progress: we are using this white paper to communicate to each other the relative merits of the observing strategy choices that could be made, in an effort to maximize the scientific value of the survey. The investigation of some science cases leads to suggestions for new strategies that could be simulated and potentially adopted. Notably, we find motivation for exploring departures from a spatially uniform annual tiling of the sky: focusing instead on different parts of the survey area in different years in a  arcsecrolling cadence arcsec is likely to have significant benefits for a number of time domain and moving object astronomy projects. The communal assembly of a suite of quantified and homogeneously coded metrics is the vital first step towards an automated, systematic, science-based assessment of any given cadence simulation, that will enable the scheduling of the LSST to be as well-informed as possible."
 featured: true
 tags:

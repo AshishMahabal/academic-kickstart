@@ -1,97 +1,98 @@
 ---
 title: "Discovery of a Multiply-Lensed Submillimeter Galaxy in Early HerMES   Herschel/SPIRE Data"
 date: 2011-04-20T20:00:01Z
-author: "A. Conley"
-author: "A. Cooray"
-author: "J. D. Vieira"
-author: "E. A. González Solares"
-author: "S. Kim"
-author: "J. E. Aguirre"
-author: "A. Amblard"
-author: "R. Auld"
-author: "A. J. Baker"
-author: "A. Beelen"
-author: "A. Blain"
-author: "R. Blundell"
-author: "J. Bock"
-author: "C. M. Bradford"
-author: "C. Bridge"
-author: "D. Brisbin"
-author: "D. Burgarella"
-author: "J. M. Carpenter"
-author: "P. Chanial"
-author: "E. Chapin"
-author: "N. Christopher"
-author: "D. L. Clements"
-author: "P. Cox"
-author: "S. G. Djorgovski"
-author: "C. D. Dowell"
-author: "S. Eales"
-author: "L. Earle"
-author: "T. P. Ellsworth-Bowers"
-author: "D. Farrah"
-author: "A. Franceschini"
-author: "D. Frayer"
-author: "H. Fu"
-author: "R. Gavazzi"
-author: "J. Glenn"
-author: "M. Griffin"
-author: "M. A. Gurwell"
-author: "M. Halpern"
-author: "E. Ibar"
-author: "R. J. Ivison"
-author: "M. Jarvis"
-author: "J. Kamenetzky"
-author: "M. Krips"
-author: "L. Levenson"
-author: "R. Lupu"
-author: "A. Mahabal"
-author: "P. D. Maloney"
-author: "C. Maraston"
-author: "L. Marchetti"
-author: "G. Marsden"
-author: "H. Matsuhara"
-author: "A. M. J. Mortier"
-author: "E. Murphy"
-author: "B. J. Naylor"
-author: "R. Neri"
-author: "H. T. Nguyen"
-author: "S. J. Oliver"
-author: "A. Omont"
-author: "M. J. Page"
-author: "A. Papageorgiou"
-author: "C. P. Pearson"
-author: "I. Pérez-Fournon"
-author: "M. Pohlen"
-author: "N. Rangwala"
-author: "J. I. Rawlings"
-author: "G. Raymond"
-author: "D. Riechers"
-author: "G. Rodighiero"
-author: "I. G. Roseboom"
-author: "M. Rowan-Robinson"
-author: "B. Schulz"
-author: "Douglas Scott"
-author: "K. Scott"
-author: "P. Serra"
-author: "N. Seymour"
-author: "D. L. Shupe"
-author: "A. J. Smith"
-author: "M. Symeonidis"
-author: "K. E. Tugwell"
-author: "M. Vaccari"
-author: "E. Valiante"
-author: "I. Valtchanov"
-author: "A. Verma"
-author: "M. P. Viero"
-author: "L. Vigroux"
-author: "L. Wang"
-author: "D. Wiebe"
-author: "G. Wright"
-author: "C. K. Xu"
-author: "G. Zeimann"
-author: "M. Zemcov"
-author: "J. Zmuidzinas"
+authors:
+- A. Conley
+- A. Cooray
+- J. D. Vieira
+- E. A. González Solares
+- S. Kim
+- J. E. Aguirre
+- A. Amblard
+- R. Auld
+- A. J. Baker
+- A. Beelen
+- A. Blain
+- R. Blundell
+- J. Bock
+- C. M. Bradford
+- C. Bridge
+- D. Brisbin
+- D. Burgarella
+- J. M. Carpenter
+- P. Chanial
+- E. Chapin
+- N. Christopher
+- D. L. Clements
+- P. Cox
+- S. G. Djorgovski
+- C. D. Dowell
+- S. Eales
+- L. Earle
+- T. P. Ellsworth-Bowers
+- D. Farrah
+- A. Franceschini
+- D. Frayer
+- H. Fu
+- R. Gavazzi
+- J. Glenn
+- M. Griffin
+- M. A. Gurwell
+- M. Halpern
+- E. Ibar
+- R. J. Ivison
+- M. Jarvis
+- J. Kamenetzky
+- M. Krips
+- L. Levenson
+- R. Lupu
+- A. Mahabal
+- P. D. Maloney
+- C. Maraston
+- L. Marchetti
+- G. Marsden
+- H. Matsuhara
+- A. M. J. Mortier
+- E. Murphy
+- B. J. Naylor
+- R. Neri
+- H. T. Nguyen
+- S. J. Oliver
+- A. Omont
+- M. J. Page
+- A. Papageorgiou
+- C. P. Pearson
+- I. Pérez-Fournon
+- M. Pohlen
+- N. Rangwala
+- J. I. Rawlings
+- G. Raymond
+- D. Riechers
+- G. Rodighiero
+- I. G. Roseboom
+- M. Rowan-Robinson
+- B. Schulz
+- Douglas Scott
+- K. Scott
+- P. Serra
+- N. Seymour
+- D. L. Shupe
+- A. J. Smith
+- M. Symeonidis
+- K. E. Tugwell
+- M. Vaccari
+- E. Valiante
+- I. Valtchanov
+- A. Verma
+- M. P. Viero
+- L. Vigroux
+- L. Wang
+- D. Wiebe
+- G. Wright
+- C. K. Xu
+- G. Zeimann
+- M. Zemcov
+- J. Zmuidzinas
 abstract: "We report the discovery of a bright ($f(250mum) > 400$ mJy), multiply-lensed submillimeter galaxy obj in {it   Herschel}/SPIRE Science Demonstration Phase data from the HerMES project. Interferometric 880mum Submillimeter Array observations resolve at least four images with a large separation of $sim 9arcsec$. A high-resolution adaptive optics $K_p$ image with Keck/NIRC2 clearly shows strong lensing arcs. Follow-up spectroscopy gives a redshift of $z=2.9575$, and the lensing model gives a total magnification of $mu sim 11 pm 1$. The large image separation allows us to study the multi-wavelength spectral energy distribution (SED) of the lensed source unobscured by the central lensing mass. The far-IR/millimeter-wave SED is well described by a modified blackbody fit with an unusually warm dust temperature, $88 pm 3$ K. We derive a lensing-corrected total IR luminosity of $(1.43 pm 0.09) times 10^{13}, mathrm{L}_{odot}$, implying a star formation rate of $sim 2500, mathrm{M}_{odot}, mathrm{yr}^{-1}$. However, models primarily developed from brighter galaxies selected at longer wavelengths are a poor fit to the full optical-to-millimeter SED. A number of other strongly lensed systems have already been discovered in early {it Herschel} data, and many more are expected as additional data are collected."
 featured: true
 tags:
