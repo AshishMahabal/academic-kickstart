@@ -2,7 +2,7 @@
 # Writings
 linktitle: Writings
 summary: Various writings
-weight: 1
+weight: 10
 
 # Page metadata.
 title: Writings

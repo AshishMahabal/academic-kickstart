@@ -1,11 +1,11 @@
 ---
-# Numismatics
-linktitle: Numismatics
-summary: Coins, bills, and all that
-weight: 20
+# Music
+linktitle: Music
+summary: About music
+weight: 40
 
 # Page metadata.
-title: Numismatics
+title: Music
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,16 +17,12 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   personal:
-    name: Numismatics
-    weight: 20
+    name: Music
+    weight: 40
 ---
 
-About my coin collections
+Music notes
 <P>
-## History
-## US coins
-## Indian coins
-## Other
-### Euro
-### UK
-### Rest
+## Indian
+## Western
+## Stuff

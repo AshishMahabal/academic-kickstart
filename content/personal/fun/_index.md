@@ -1,11 +1,11 @@
 ---
-# Numismatics
-linktitle: Numismatics
-summary: Coins, bills, and all that
-weight: 20
+# Fun
+linktitle: Fun
+summary: Laughs, Puzzles, and all that
+weight: 50
 
 # Page metadata.
-title: Numismatics
+title: Fun
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,16 +17,11 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   personal:
-    name: Numismatics
-    weight: 20
+    name: Fun
+    weight: 50
 ---
 
-About my coin collections
+Laughs, Puzzles, and all that
 <P>
-## History
-## US coins
-## Indian coins
-## Other
-### Euro
-### UK
-### Rest
+## Laughs
+## Puzzles

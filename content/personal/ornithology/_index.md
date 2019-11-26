@@ -1,11 +1,11 @@
 ---
-# Numismatics
-linktitle: Numismatics
-summary: Coins, bills, and all that
-weight: 20
+# Ornithology
+linktitle: Ornithology
+summary: Bird stuff
+weight: 30
 
 # Page metadata.
-title: Numismatics
+title: Ornithology
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,16 +17,13 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   personal:
-    name: Numismatics
-    weight: 20
+    name: Ornithology
+    weight: 30
 ---
 
-About my coin collections
+Bird stuff
 <P>
-## History
-## US coins
-## Indian coins
+## Indian birds
+## US birds
 ## Other
-### Euro
-### UK
-### Rest
+## Caltech walks
