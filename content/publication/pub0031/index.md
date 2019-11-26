@@ -1,6 +1,15 @@
-+++
-title = "Some Pattern Recognition Challenges in Data-Intensive Astronomy"
-date = 2006-08-29T21:06:32Z
-featured = true
-+++
+---
+title: "Some Pattern Recognition Challenges in Data-Intensive Astronomy"
+date: 2006-08-29T21:06:32Z
+author: "S. G. Djorgovski"
+author: "C. Donalek"
+author: "A. Mahabal"
+author: "R. Williams"
+author: "A. Drake"
+author: "M. Graham"
+author: "E. Glikman"
+abstract: "We review some of the recent developments and challenges posed by the data analysis in modern digital sky surveys, which are representative of the information-rich astronomy in the context of Virtual Observatory. Illustrative examples include the problems of an automated star-galaxy classification in complex and heterogeneous panoramic imaging data sets, and an automated, iterative, dynamical classification of transient events detected in synoptic sky surveys. These problems offer good opportunities for productive collaborations between astronomers and applied computer scientists and statisticians, and are representative of the kind of challenges now present in all data-intensive fields. We discuss briefly some emergent types of scalable scientific data analysis systems with a broad applicability."
+featured: true
+tags:
+---
 http://arxiv.org/abs/astro-ph/0608638v1

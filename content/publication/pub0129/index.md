@@ -1,6 +1,16 @@
-+++
-title = "Results of a systematic search for outburst events in 1.4 million   galaxies"
-date = 2018-10-02T18:35:16Z
-featured = true
-+++
+---
+title: "Results of a systematic search for outburst events in 1.4 million   galaxies"
+date: 2018-10-02T18:35:16Z
+author: "A. J. Drake"
+author: "S. G. Djorgovski"
+author: "M. J. Graham"
+author: "D. Stern"
+author: "A. A. Mahabal"
+author: "M. Catelan"
+author: "E. Christensen"
+author: "S. Larson"
+abstract: "We present an analysis of nine years of Catalina Surveys optical photometry for 1.4 million spectroscopically confirmed SDSS galaxies. We find 717 outburst events that were not reported by ongoing transient surveys. These events have timescales ranging from weeks to years. More than two thirds of these new events are found in starforming galaxies, while such galaxies only constitute ~20% of our sample. Based on the properties of the hosts and events, we find that almost all of the new events are likely to be associated with regular supernovae. However, a small number of long-timescale events are found among the galaxies containing AGN. These events have similar properties to those recently found in the analyses of light curves of large samples of AGN. Given the lack of such events among the more than a million passive galaxies in the sample, we suggest that the long outbursts are associated with super-massive black holes or their environments."
+featured: true
+tags:
+---
 http://arxiv.org/abs/1810.01448v1

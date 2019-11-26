@@ -1,6 +1,13 @@
-+++
-title = "A Dust Lane in the Radio galaxy 3C270"
-date = 1995-08-01T16:29:00Z
-featured = true
-+++
+---
+title: "A Dust Lane in the Radio galaxy 3C270"
+date: 1995-08-01T16:29:00Z
+author: "Ashish Mahabal"
+author: "Ajit Kembhavi"
+author: "; K. P. Singh"
+author: "P. N. Bhat"
+author: "; T. P. Prabhu"
+abstract: "We present broad band surface photometry of the radio galaxy 3C270 (NGC~4261). We find a distinct dust lane in the $V-R$ image of the galaxy, and determine its orientation and size. We use the major axis profile of the galaxy to estimate the optical depth of the dust lane, and discuss the significance of the lane to the shape of the galaxy."
+featured: true
+tags:
+---
 http://arxiv.org/abs/astro-ph/9501029v2

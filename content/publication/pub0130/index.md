@@ -1,6 +1,42 @@
-+++
-title = "2900 square degree search for the optical counterpart of short gamma-ray   burst GRB 180523B with the Zwicky Transient Facility"
-date = 2019-01-31T14:44:26Z
-featured = true
-+++
+---
+title: "2900 square degree search for the optical counterpart of short gamma-ray   burst GRB 180523B with the Zwicky Transient Facility"
+date: 2019-01-31T14:44:26Z
+author: "Michael W. Coughlin"
+author: "Tomas Ahumada"
+author: "S. Bradley Cenko"
+author: "Virginia Cunningham"
+author: "Shaon Ghosh"
+author: "Leo P. Singer"
+author: "Eric C. Bellm"
+author: "Eric Burns"
+author: "Kishalay De"
+author: "Adam Goldstein"
+author: "V. Zach Golkhou"
+author: "David L. Kaplan"
+author: "Mansi M. Kasliwal"
+author: "Daniel A. Perley"
+author: "Jesper Sollerman"
+author: "Ashot Bagdasaryan"
+author: "Richard G. Dekany"
+author: "Dmitry A. Duev"
+author: "Michael Feeney"
+author: "Matthew J. Graham"
+author: "David Hale"
+author: "Shri R. Kulkarni"
+author: "Thomas Kupfer"
+author: "Russ R. Laher"
+author: "Ashish Mahabal"
+author: "Frank J. Masci"
+author: "Adam A. Miller"
+author: "James D. Neill"
+author: "Maria T Patterson"
+author: "Reed Riddle"
+author: "Ben Rusholme"
+author: "Roger Smith"
+author: "Yutaro Tachibana"
+author: "Richard Walters"
+abstract: "There is significant interest in the models for production of short gamma-ray bursts. Until now, the number of known short gamma-ray bursts with multi-wavelength afterglows has been small. While the {it Fermi} Gamma-Ray Burst Monitor detects many gamma-ray bursts relative to the Neil Gehrels {it Swift} Observatory, the large localization regions makes the search for counterparts difficult. With the Zwicky Transient Facility recently achieving first light, it is now fruitful to use its combination of depth ($m_textrm{AB} sim 20.6$), field of view ($approx$ 47 square degrees), and survey cadence (every $sim 3$ days) to perform Target of Opportunity observations. We demonstrate this capability on GRB 180523B, which was recently announced by the {it Fermi} Gamma-Ray Burst Monitor as a short gamma-ray burst. ZTF imaged $approx$ 2900,square degrees of the localization region, resulting in the coverage of 61.6,% of the enclosed probability over 2 nights to a depth of $m_textrm{AB} sim 20.5$. We characterized 14 previously unidentified transients, and none were found to be consistent with a short gamma-ray burst counterpart. This search with the Zwicky Transient Facility shows it is an efficient camera for searching for coarsely-localized short gamma-ray burst and gravitational-wave counterparts, allowing for a sensitive search with minimal interruption to its nominal cadence."
+featured: true
+tags:
+---
 http://arxiv.org/abs/1901.11385v1

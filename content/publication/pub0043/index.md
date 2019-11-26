@@ -1,6 +1,13 @@
-+++
-title = "Skyalert: Real-time Astronomy for You and Your Robots"
-date = 2009-06-11T19:26:59Z
-featured = true
-+++
+---
+title: "Skyalert: Real-time Astronomy for You and Your Robots"
+date: 2009-06-11T19:26:59Z
+author: "R. D. Williams"
+author: "S. G. Djorgovski"
+author: "A. J. Drake"
+author: "M. J. Graham"
+author: "A. Mahabal"
+abstract: "Skyalert.org is a web application to collect and disseminate observations about time-critical astronomical transients, and to add annotations and intelligent machine-learning to those observations. The information is  arcsecpushed arcsec to subscribers, who may be either humans (email, text message etc) or they may be machines that control telescopes. Subscribers can prepare precise  arcsectrigger rules arcsec to decide which events should reach them and their robots, rules that may be based on sky position, or on the specific vocabulary of parameters that define a particular type of observation. Our twin thrusts are automation of process, and discrimination of interesting events."
+featured: true
+tags:
+---
 http://arxiv.org/abs/0906.2186v1
