@@ -10,8 +10,8 @@ tags:
 - Asteroids
 - Variables
 - Transients
-- Blazar
-- CV
+- Blazars
+- CVs
 ---
 
 Catalina Real-time Transient Survey (CRTS) is a ...
