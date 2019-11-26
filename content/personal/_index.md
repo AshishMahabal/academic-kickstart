@@ -1,3 +1,4 @@
 +++
-title = "foo"
+title = "Life and Everything"
+layout = "docs"
 +++
