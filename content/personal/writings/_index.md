@@ -9,7 +9,7 @@ title: Writings
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -27,7 +27,7 @@ mostly hard sci-fi, and they have been published in leading Marathi magazines
 as well as well-known online sites, and a few anthologies. I have also written
 some travelogues, including a few that are predominantly picture-based.
 <P>
-## <A HREF=diwali.html>In Diwali magazines</A><BR>
+## <A HREF=diwali>In Diwali magazines</A><BR>
 <!-- <A HREF=lamal.html>For the bi-monthly LAMAL sessions</A><BR> -->
 ## <A HREF=http://avyakta.caltech.edu:8080/lamal/AshishMahabal.html>For the bi-monthly LAMAL sessions</A><BR>
 ## <A HREF=sahitya_vishva.html>For the NJ Sahitya Vishva</A><BR>
