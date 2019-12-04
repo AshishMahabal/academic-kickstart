@@ -1,11 +1,11 @@
 ---
-# Personal
-linktitle: Personal
-summary: Various Personal
+# Travelogues
+linktitle: Travelogues
+summary: Various Travelogues
 weight: 10
 
 # Page metadata.
-title: Personal
+title: Travelogues
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -17,9 +17,11 @@ editable: false
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  personal:
-    name: 
-    weight: 10
+  writings:
+    name: Travelogues
+    weight: 11
 ---
 
-A bit about me ...
+
+
+Travelogues stuff

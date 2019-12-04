@@ -12,11 +12,9 @@ toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 menu:
-  personal:
-    :writing:
-        Diwali:
+  diwali:
     name: 2011
-    weight: 91
+    weight: 12
 ---
 <TABLE>
 <TR><TD>
