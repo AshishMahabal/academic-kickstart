@@ -10,6 +10,7 @@ lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
+editable: false
 
 menu:
   diwali:
@@ -19,8 +20,8 @@ menu:
 
 <TABLE>
 <TR><TD>
-<IMG HEIGHT=200 SRC=images/upakram_2012diwali_cover.png>
-<IMG HEIGHT=200 SRC=images/upakram_2012diwali_title.png>
+<IMG HEIGHT=200 SRC-../images/upakram_2012diwali_cover.png>
+<IMG HEIGHT=200 SRC-../images/upakram_2012diwali_title.png>
 odhyemaThaachI nirmitI aaNi maraaThI baaNa (upakram)
 </TD></TR>
 </TABLE>
