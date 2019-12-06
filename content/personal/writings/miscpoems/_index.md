@@ -22,6 +22,31 @@ menu:
     weight: 11
 ---
 
+<A HREF=http://www.maayboli.com/node/29886>
+() &#2309;&#2325;&#2375;&#2354;&#2366;
+</A><BR>
+<A HREF=http://www.maayboli.com/node/37755>
+&#2332;&#2352;&#2327; -
+&#2332;&#2344;&#2339;&#2381;&#2351;&#2366;&#2330;&#2368;,
+&#2352;&#2350;&#2339;&#2381;&#2351;&#2366;&#2330;&#2368;,
+&#2327;&#2350;&#2339;&#2381;&#2351;&#2366;&#2330;&#2368;
+</A><BR>
+<P>
+Translations:<P>
+Roger McGough's Leader:
+<A HREF=http://www.maayboli.com/node/21242>
+&#2354;&#2368;&#2337;&#2352;
+</A><BR>
 
-
-Misc Poems 
+Loris Malaguzzi's Hundred:
+<A HREF=http://www.maayboli.com/node/20582>
+&#2358;&#2306;&#2349;&#2352;
+</A><BR>
+Lewis Caroll's Jabberwocky:
+<A HREF=http://www.astro.caltech.edu/~aam/fun/jabberwocky.html>
+&#2332;&#2366;&#2348;&#2352;&#2357;&#2379;&#2325;&#2366;</A>
+<BR>
+Billy Collins' Introduction To Poetry:
+<A HREF=http://www.astro.caltech.edu/~aam/fun/IntroToPoetry.jpg>
+&#2325;&#2357;&#2367;&#2340;&#2375;&#2330;&#2368; &#2323;&#2355;&#2326;</A>
+<BR>

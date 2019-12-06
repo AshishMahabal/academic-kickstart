@@ -21,7 +21,4 @@ menu:
     name: LAMAL
     weight: 11
 ---
-
-
-
-LAMAL stuff
+http://www.astro.caltech.edu/~aam/lamal/bytopicd.html
