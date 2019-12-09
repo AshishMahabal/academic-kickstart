@@ -62,3 +62,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+<A HREF="/publication/">All publications</A>
