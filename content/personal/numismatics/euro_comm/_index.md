@@ -470,7 +470,4 @@ General
 <TD>0/2</TD>
 </TR>
 
-</TABLE>Got 22 of the 129++ commomarative 2 Euro coins<BR>
-
-<A HREF=http://www.astro.caltech.edu/~aam/coins/Euro/euro_std.html>The standard Euros</A><BR>
-<A HREF=http://www.astro.caltech.edu/~aam/coins/coins.html>Back to the coins page</A><BR>
+</TABLE>Got 22 of the 129++ commemarative 2 Euro coins<BR>

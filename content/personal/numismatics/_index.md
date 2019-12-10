@@ -61,10 +61,10 @@ so far.
 
 ## UK
 
-<A HREF="UKindex">UK coins</A><BR>
-<A HREF="50Pence">UK 50 pence coins</A><BR>
-<A HREF="1Pound">UK 1 pound coins</A><BR>
-<A HREF="2Pounds">UK 2 pound coins</A>
+<A HREF="ukindex">UK coins</A><BR>
+<A HREF="50pence">UK 50 pence coins</A><BR>
+<A HREF="1pound">UK 1 pound coins</A><BR>
+<A HREF="2pounds">UK 2 pound coins</A>
 
 ## Rest
 

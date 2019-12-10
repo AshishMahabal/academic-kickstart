@@ -457,5 +457,3 @@ We do not collect coins for all years - may be when we move to Europe. The years
 <TH>114 (160)</TH></TR>
 </TABLE>
 Andorra, Kosovo, Montenegro do not issue their own coins.<BR><P>
-<A HREF=http://www.astro.caltech.edu/~aam/coins/Euro/euro_comm.html>The Commamorative Euros</A><BR>
-<A HREF=http://www.astro.caltech.edu/~aam/coins/coins.html>Back to the coins page</A><BR>
