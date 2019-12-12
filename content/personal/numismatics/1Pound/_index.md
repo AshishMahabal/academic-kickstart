@@ -21,7 +21,7 @@ menu:
 
 
 
-This page shows in green the coins we have and in red the ones we dont.<BR>
+This page shows in green the coins we have and in red the ones we don't.<BR>
 The images are linked directly from <A HREF=http://www.royalmintt.com>the Royal mint</A>. Their website has many more details.
 <P>
 <TABLE BORDER=1>

@@ -23,7 +23,7 @@ menu:
 
 
 I recently (late 2002) started trying to understand what music is, why people like it, and what exactly people like. I had never tried singing before and quickly discovered that the expanse of my vocal chords was under one octave. Hitting the correct note is not easy either. But practice helps. Being curious, I started investigating different ways of making music without getting fully trained (not to make the job seem simpler, but thinking that making ones hand dirty will help me understand it better). What follow are various links that I stumbled upon, and some pieces that I have been making.
-I started with mswlogo which is terrefic and soon moved on to midi:perl which is even better. 
+I started with mswlogo which is terrific and soon moved on to midi:perl which is even better. 
 
 <H2>External Links</H2>
 <A HREF=http://www.sawf.org/music/articles.asp?pn=Music>Articles by Rajan Parrikar</A><BR>

@@ -1,15 +1,15 @@
 ---
-# Personal
-linktitle: Personal
-summary: Various Personal
+# test
+linktitle: test
+summary: Various test
 weight: 10
 
 # Page metadata.
-title: Personal
+title: test
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 editable: false
 
@@ -18,15 +18,7 @@ editable: false
 # - weight: Position of link in menu.
 menu:
   personal:
-    name: 
-    weight: 10
+    name: test
+    weight: 8
 ---
-
-A bit about me ...
-
-$$ y = x $$
-
-<div> 
-$$f(k;p\_0^*) = \begin{cases} p\_0^* & \text{if }k=1, \\\\\\
-1-p\_0^* & \text {if }k=0.\end{cases}$$
-</div>
+<A href=foo>foo</A>
