@@ -31,5 +31,6 @@ authors:
 abstract: "The Photometric LSST Astronomical Time Series Classification Challenge (PLAsTiCC) is an open data challenge to classify simulated astronomical time-series data in preparation for observations from the Large Synoptic Survey Telescope (LSST), which will achieve first light in 2019 and commence its 10-year main survey in 2022. LSST will revolutionize our understanding of the changing sky, discovering and measuring millions of time-varying objects.   In this challenge, we pose the question: how well can we classify objects in the sky that vary in brightness from simulated LSST time-series data, with all its challenges of non-representativity? In this note we explain the need for a data challenge to help classify such astronomical sources and describe the PLAsTiCC data set and Kaggle data challenge, noting that while the references are provided for context, they are not needed to participate in the challenge."
 featured: true
 tags:
+math: true
 ---
 http://arxiv.org/abs/1810.00001v1

@@ -55,5 +55,6 @@ authors:
 abstract: "The Zwicky Transient Facility is a large optical survey in multiple filters producing hundreds of thousands of transient alerts per night. We describe here various machine learning (ML) implementations and plans to make the maximal use of the large data set by taking advantage of the temporal nature of the data, and further combining it with other data sets. We start with the initial steps of separating bogus candidates from real ones, separating stars and galaxies, and go on to the classification of real objects into various classes. Besides the usual methods (e.g., based on features extracted from light curves) we also describe early plans for alternate methods including the use of domain adaptation, and deep learning. In a similar fashion we describe efforts to detect fast moving asteroids. We also describe the use of the Zooniverse platform for helping with classifications through the creation of training samples, and active learning. Finally we mention the synergistic aspects of ZTF and LSST from the ML perspective."
 featured: true
 tags:
+math: true
 ---
 http://arxiv.org/abs/1902.01936v1

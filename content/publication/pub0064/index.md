@@ -14,5 +14,6 @@ authors:
 abstract: "An automated, rapid classification of transient events detected in the modern synoptic sky surveys is essential for their scientific utility and effective follow-up using scarce resources. This problem will grow by orders of magnitude with the next generation of surveys. We are exploring a variety of novel automated classification techniques, mostly Bayesian, to respond to these challenges, using the ongoing CRTS sky survey as a testbed. We describe briefly some of the methods used."
 featured: true
 tags:
+math: true
 ---
 http://arxiv.org/abs/1111.3699v1

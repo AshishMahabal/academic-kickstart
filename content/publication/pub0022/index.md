@@ -18,5 +18,6 @@ authors:
 abstract: "The advent of wide-area multicolour synoptic sky surveys is leading to data sets unprecedented in size, complexity and data throughput. VO technology offers a way to exploit these to the full but requires changes in design philosophy. The Palomar-QUEST survey is a major new survey being undertaken by Caltech, Yale, JPL and Indiana University to repeatedly observe 1/3 of the sky (~15000 sq. deg. between -27 < Dec <27 in seven passbands. Utilising the 48-inch Oschin Schmidt Telescope at the Palomar Observatory with the 112-CCD QUEST camera covering the full 4 x 4 sq. deg. field of view, it will generate ~1TB of data per month. In this paper, we review the design of QUEST as a VO resource, a federated data set and an exemplar of VO standards."
 featured: true
 tags:
+math: true
 ---
 http://arxiv.org/abs/astro-ph/0402616v1

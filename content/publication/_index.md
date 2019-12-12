@@ -1,5 +1,8 @@
 ---
 title: "Publications"
+math: true
+cascade:
+    math: true
 ---
 <TABLE>
 <TR><TD>

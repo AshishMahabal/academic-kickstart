@@ -45,5 +45,6 @@ authors:
 abstract: "We present Zwicky Transient Facility (ZTF) observations of the tidal disruption flare AT2018zr/PS18kh reported by Holoien et al. and detected during ZTF commissioning. The ZTF light curve of the tidal disruption event (TDE) samples the rise-to-peak exceptionally well, with 50 days of g- and r-band detections before the time of maximum light. We also present our multi-wavelength follow-up observations, including the detection of a thermal (kT~100 eV) X-ray source that is two orders of magnitude fainter than the contemporaneous optical/UV blackbody luminosity, and a stringent upper limit to the radio emission. We use observations of 128 known active galactic nuclei (AGN) to assess the quality of the ZTF astrometry, finding a median host-flare distance of 0.2 arcsec for genuine nuclear flares. Using ZTF observations of variability from known AGN and supernovae we show how these sources can be separated from TDEs. A combination of light-curve shape, color, and location in the host galaxy can be used to select a clean TDE sample from multi-band optical surveys such as ZTF or LSST."
 featured: true
 tags:
+math: true
 ---
 http://arxiv.org/abs/1809.02608v2

@@ -20,5 +20,6 @@ authors:
 abstract: "This article offers a short guide to the steps scientists can take to ensure that their data and associated analyses continue to be of value and to be recognized. In just the past few years, hundreds of scholarly papers and reports have been written on questions of data sharing, data provenance, research reproducibility, licensing, attribution, privacy, and more, but our goal here is not to review that literature. Instead, we present a short guide intended for researchers who want to know why it is important to  arcseccare for and feed arcsec data, with some practical advice on how to do that."
 featured: true
 tags:
+math: true
 ---
 http://arxiv.org/abs/1401.2134v1

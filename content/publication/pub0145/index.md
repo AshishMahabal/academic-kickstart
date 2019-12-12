@@ -20,5 +20,6 @@ authors:
 abstract: "This Astro2020 State of the Profession Consideration White Paper highlights the growth of astrostatistics and astroinformatics in astronomy, identifies key issues hampering the maturation of these new subfields, and makes recommendations for structural improvements at different levels that, if acted upon, will make significant positive impacts across astronomy."
 featured: true
 tags:
+math: true
 ---
 http://arxiv.org/abs/1909.11714v1

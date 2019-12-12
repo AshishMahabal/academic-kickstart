@@ -121,5 +121,6 @@ authors:
 abstract: "The Zwicky Transient Facility (ZTF) is a new optical time-domain survey that uses the Palomar 48-inch Schmidt telescope. A custom-built wide-field camera provides a 47 deg$^2$ field of view and 8 second readout time, yielding more than an order of magnitude improvement in survey speed relative to its predecessor survey, the Palomar Transient Factory (PTF). We describe the design and implementation of the camera and observing system. The ZTF data system at the Infrared Processing and Analysis Center provides near-real-time reduction to identify moving and varying objects. We outline the analysis pipelines, data products, and associated archive. Finally, we present on-sky performance analysis and first scientific results from commissioning and the early survey. ZTF's public alert stream will serve as a useful precursor for that of the Large Synoptic Survey Telescope."
 featured: true
 tags:
+math: true
 ---
 http://arxiv.org/abs/1902.01932v1

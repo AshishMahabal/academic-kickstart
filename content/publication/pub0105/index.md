@@ -111,5 +111,6 @@ authors:
 abstract: "Outbursts from gamma-ray quasars provide insights on the relativistic jets of active galactic nuclei and constraints on the diffuse radiation fields that fill the Universe. The detection of significant emission above 100 GeV from a distant quasar would show that some of the radiated gamma rays escape pair-production interactions with low-energy photons, be it the extragalactic background light (EBL), or the radiation near the supermassive black hole lying at the jet's base. VERITAS detected gamma-ray emission up to 200 GeV from PKS 1441+25 (z=0.939) during April 2015, a period of high activity across all wavelengths. This observation of PKS 1441+25 suggests that the emission region is located thousands of Schwarzschild radii away from the black hole. The gamma-ray detection also sets a stringent upper limit on the near-ultraviolet to near-infrared EBL intensity, suggesting that galaxy surveys have resolved most, if not all, of the sources of the EBL at these wavelengths."
 featured: true
 tags:
+math: true
 ---
 http://arxiv.org/abs/1512.04434v1
