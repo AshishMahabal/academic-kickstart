@@ -12,4 +12,4 @@ tags:
 
 Molecular and Cellular Lesions (MCL) or actually the mouthful Consortium for Molecular and Cellular Characterization of Screen-Detected Lesions (MCL) is made of teams studying tumor tissue, cell, and microenvironment components to distinguish screen-detected early lesions from interval and symptom-detected cancers.
 
-There is a lot of overlap of my <A HREF="/project/project2">EDRN</A> work, and involves doing machine learning and dataset building for somewhat related aspects.
+There is a lot of overlap of my <A HREF="/project/edrn">EDRN</A> work, and involves doing machine learning and dataset building for somewhat related aspects.
