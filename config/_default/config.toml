@@ -81,3 +81,5 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     name       = "Personal"
     url        = "/personal/"
     weight     = 2
+
+mathjax = true
