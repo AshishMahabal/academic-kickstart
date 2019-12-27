@@ -18,27 +18,20 @@ menu:
     weight: 12
 ---
 
-{{< figure src="images/naval_2015diwali_cover.jpg" width=200 >}}
-{{< img *naval_2015diwali_cover* "mylabel" />}}
-<figure>
-	<img src="images/naval_2015diwali_cover.jpg" WIDTH= 100 alt="(.Get 1)" />
-	<figcaption>(.Get 1)</figcaption>
-</figure>
-
 <TABLE>
 <TR><TD>
-<img src="images/naval_2015diwali_cover.jpg" HEIGHT=200>
-<IMG HEIGHT=200 SRC=../images/naval_2015diwali_contents.jpg>
 antardhvani (naval)
-</TD></TR><TR><TD>
-<IMG HEIGHT=200 SRC=../images/dhananja_2015diwali_cover.jpg>
-<IMG HEIGHT=200 SRC=../images/dhananjay_2015diwali_contents.jpg>
-<IMG HEIGHT=200 SRC=../images/dhananjay_2015diwali_title.jpg>
+{{< figure src="images/naval_2015diwali_cover.jpg" width=200 >}}
+{{< figure width=200 src="images/naval_2015diwali_contents.jpg" >}}
+</TD><TD>
 ghost writer (dhananjay)
-</TD></TR><TR><TD>
-<IMG HEIGHT=200 SRC=../images/MMLA_2015diwali_cover.png>
-<IMG HEIGHT=200 SRC=../images/MMLA_2015diwali_contents.png>
-<IMG HEIGHT=200 SRC=../images/MMLA_2015diwali_title.png>
+{{< figure width=200 src="images/dhananja_2015diwali_cover.jpg" >}}
+{{< figure width=200 src="images/dhananjay_2015diwali_contents.jpg" >}}
+{{< figure width=200 src="images/dhananjay_2015diwali_title.jpg" >}}
+</TD><TD>
 <A HREF=../images/MMLAUtsav2015p.pdf>asamI</A> (MMLA - utsav)
+{{< figure width=200 src="images/MMLA_2015diwali_cover.png" >}}
+{{< figure width=200 src="images/MMLA_2015diwali_contents.png" >}}
+{{< figure width=200 src="images/MMLA_2015diwali_title.png" >}}
 </TD></TR>
 </TABLE>
