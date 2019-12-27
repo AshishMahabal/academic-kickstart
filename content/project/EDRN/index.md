@@ -1,5 +1,5 @@
 ---
-title: "Early Detection Research Network"
+title: "Early Detection Research Network (EDRN)"
 date: 2018-03-04
 featured: true
 tags:
@@ -8,6 +8,7 @@ tags:
 - Cancer
 - Medical Data
 - Methodology Transfer
+weight: 51
 ---
 
 The <A HREF="https://edrn.nci.nih.gov/">Early Detection Research Network (EDRN)</A>, an initiative of the National Cancer Institute (NCI), working with tens of institutions on accelerating the translation biomarker research for clinical applications and to detect cancers as early as possible.

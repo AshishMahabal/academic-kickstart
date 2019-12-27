@@ -1,5 +1,5 @@
 ---
-title: "Zwicky Transient Facility"
+title: "Zwicky Transient Facility (ZTF)"
 date: 2019-12-21
 featured: true
 tags:
@@ -13,6 +13,7 @@ tags:
 - Variables
 - Blazars
 - CVs
+weight: 3
 ---
 
 The <A HREF="https://www.ztf.caltech.edu/">Zwicky Transient Facility (ZTF)</A> is a 47 square degree field of view time-domain survey from the Samuel Oschin 48-inch Schmidt telescope at Palomar Observatory in California. <A HREF="https://www.ztf.caltech.edu/page/dr2">DR2</A> was released recently (Dec 2019) and boasts of 100 billion source detections in g/r/i filters combined.
