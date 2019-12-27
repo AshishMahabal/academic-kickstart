@@ -17,9 +17,17 @@ menu:
     name: 2015
     weight: 12
 ---
+
+{{< figure src="images/naval_2015diwali_cover.jpg" width=200 >}}
+{{< img *naval_2015diwali_cover* "mylabel" />}}
+<figure>
+	<img src="images/naval_2015diwali_cover.jpg" WIDTH= 100 alt="(.Get 1)" />
+	<figcaption>(.Get 1)</figcaption>
+</figure>
+
 <TABLE>
 <TR><TD>
-<IMG HEIGHT=200 SRC=../images/naval_2015diwali_cover.jpg>
+<img src="images/naval_2015diwali_cover.jpg" HEIGHT=200>
 <IMG HEIGHT=200 SRC=../images/naval_2015diwali_contents.jpg>
 antardhvani (naval)
 </TD></TR><TR><TD>
