@@ -19,11 +19,11 @@ menu:
 ---
 <TABLE>
 <TR><TD>
-<IMG HEIGHT="200px" SRC=../images/upakram_2011diwali_cover.png>
-<IMG HEIGHT="200px" SRC=../images/upakram_2011diwali_title.png>
 svaarthaatuna paramaartha (upakram)
-</TD></TR><TR><TD>
-<IMG HEIGHT="200px" SRC=../images/hitguj_2011diwali_title.png>
+{{< figure width=200 src="images/upakram_2011diwali_cover.png" >}}
+{{< figure width=200 src="images/upakram_2011diwali_title.png" >}}
+</TD><TD>
 naatii, khagolashastriiya (hitguj - maayboli)
+{{< figure width=200 src="images/hitguj_2011diwali_title.png" >}}
 </TD></TR>
 </TABLE>

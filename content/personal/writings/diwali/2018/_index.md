@@ -17,4 +17,9 @@ menu:
     name: 2018
     weight: 12
 ---
-Coming soon ...
+<TABLE>
+<TR><TD>
+ (mushafiri)
+{{< figure width=200 src="images/mushafiri_2018diwali_cover.jpg" >}}
+</TD></TR>
+</TABLE>

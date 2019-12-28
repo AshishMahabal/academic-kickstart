@@ -20,8 +20,8 @@ menu:
 
 <TABLE>
 <TR><TD>
-<IMG HEIGHT=200 SRC=../images/upakram_2012diwali_cover.png>
-<IMG HEIGHT=200 SRC=../images/upakram_2012diwali_title.png>
 odhyemaThaachI nirmitI aaNi maraaThI baaNa (upakram)
+{{< figure width=200 src="images/upakram_2012diwali_cover.png" >}}
+{{< figure width=200 src="images/upakram_2012diwali_title.png" >}}
 </TD></TR>
 </TABLE>

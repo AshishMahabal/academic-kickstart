@@ -19,18 +19,18 @@ menu:
 ---
 <TABLE>
 <TR><TD>
-<IMG HEIGHT=200 SRC=../images/mavipa_2013diwali_cover.png>
-<IMG HEIGHT=200 SRC=../images/mavipa_2013diwali_contents.png>
-<IMG HEIGHT=200 SRC=../images/mavipa_2013diwali_title.png>
 kRShNalIlA (marAThI vidnyAn parishad)
-</TD></TR><TR><TD>
-<IMG HEIGHT=200 SRC=../images/hitguj_2013diwali_cover.png>
-<IMG HEIGHT=200 SRC=../images/hitguj_2013diwali_title.png>
+{{< figure width=200 src="images/mavipa_2013diwali_cover.png" >}}
+{{< figure width=200 src="images/mavipa_2013diwali_contents.png" >}}
+{{< figure width=200 src="images/mavipa_2013diwali_title.png" >}}
+</TD><TD>
 nobala Ija hI hU nobala Daja (hitguj - maayboli)
-</TD></TR><TR><TD>
-<IMG HEIGHT=200 SRC=../images/mmla_2013diwali_cover.png>
-<IMG HEIGHT=200 SRC=../images/mmla_2013diwali_contents.png>
-<IMG HEIGHT=200 SRC=../images/mmla_2013diwali_title.png>
+{{< figure width=200 src="images/hitguj_2013diwali_cover.png" >}}
+{{< figure width=200 src="images/hitguj_2013diwali_title.png" >}}
+</TD><TD>
 maajhI kaashmIrI tIrthayAtrA (MMLA Utsav)
+{{< figure width=200 src="images/mmla_2013diwali_cover.png" >}}
+{{< figure width=200 src="images/mmla_2013diwali_contents.png" >}}
+{{< figure width=200 src="images/mmla_2013diwali_title.png" >}}
 </TD></TR>
 </TABLE>
