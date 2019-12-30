@@ -19,21 +19,21 @@ menu:
 ---
 <TABLE>
 <TR><TD>
-kupamanDuk (aisi akshare)
+कूपमंडूक (ऐसी अक्षरे) <br> kUpamanUk (aisi akshare)
 {{< figure width=200 src="images/aisiakshare_2014diwali_cover.png" >}}
 {{< figure width=200 src="images/aisiakshare_2014diwali_contents.png" >}}
 {{< figure width=200 src="images/aisiakshare_2014diwali_title.png" >}}
 </TD><TD>
-rakta tabakaDyA (marAThI vidnyAn parishad)
+रक्त तबकड्या (मराठी विज्ञान परिषद) <br> rakta tabakaDyA (marAThI vidnyAn parishad)
 {{< figure width=200 src="images/mavipa_2014diwali_cover.png" >}}
 {{< figure width=200 src="images/mavipa_2014diwali_contents.png" >}}
 {{< figure width=200 src="images/mavipa_2014diwali_title.png" >}}
 </TD><TD>
-shodh badalAMchA (hitguj - maayboli)
+शोध बदलांचा (हितगूज - मायबोली) <br> shodh badalAMchA (hitguj - maayboli)
 {{< figure width=200 src="images/hitguj_2014diwali_cover.png" >}}
 {{< figure width=200 src="images/hitguj_2014diwali_contents.png" >}}
 {{< figure width=200 src="images/hitguj_2014diwali_title.png" >}}
 </TD><TD>
-los angelescha shiromani (MMLA Utsav)
+लॉस एंजेलिसचा शिरोमणी (MMLA उत्सव) <br> los angelescha shiromani (MMLA Utsav)
 </TD></TR>
 </TABLE>

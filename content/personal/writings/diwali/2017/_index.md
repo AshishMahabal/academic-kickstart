@@ -19,18 +19,18 @@ menu:
 ---
 <TABLE>
 <TR><TD>
-kachara go (dhananjay)
+कचरा गो (धनंजय) <br> kachara go (dhananjay)
 {{< figure width=200 src="images/dhananjay_2017diwali_cover.jpg" >}}
 {{< figure width=200 src="images/dhananjay_2017diwali_contents.jpg" >}}
 {{< figure width=200 src="images/dhananjay_2017diwali_title.jpg" >}}
 </TD><TD>
-chitrakarachya gava jawe (mushafiri)
+चित्रकाराच्या गावा जावे (मुशाफिरी) <br> chitrakarachya gava jawe (mushafiri)
 {{< figure width=200 src="images/mushafiri_2017diwali_cover.jpg" >}}
 {{< figure width=200 src="images/mushafiri_2017diwali_contents.jpg" >}}
 {{< figure width=200 src="images/mushafiri_2017diwali_desc.jpg" >}}
 {{< figure width=200 src="images/mushafiri_2017diwali_title.jpg" >}}
 </TD><TD>
-mana tara savaya (naval)
+मन तर सवय (नवल)<br>mana tara savaya (naval)
 {{< figure width=200 src="images/naval_2017diwali_cover.jpg" >}}
 {{< figure width=200 src="images/naval_2017diwali_contents.jpg" >}}
 {{< figure width=200 src="images/naval_2017diwali_title.jpg" >}}

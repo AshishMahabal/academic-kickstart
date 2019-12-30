@@ -20,16 +20,16 @@ menu:
 
 <TABLE>
 <TR><TD>
-antardhvani (naval)
+अंतर्ध्वनी (नवल) <br> antardhvani (naval)
 {{< figure src="images/naval_2015diwali_cover.jpg" width=200 >}}
 {{< figure width=200 src="images/naval_2015diwali_contents.jpg" >}}
 </TD><TD>
-ghost writer (dhananjay)
+घोस्ट रायटर (धनंजय) <br> ghost writer (dhananjay)
 {{< figure width=200 src="images/dhananja_2015diwali_cover.jpg" >}}
 {{< figure width=200 src="images/dhananjay_2015diwali_contents.jpg" >}}
 {{< figure width=200 src="images/dhananjay_2015diwali_title.jpg" >}}
 </TD><TD>
-<A HREF=../images/MMLAUtsav2015p.pdf>asamI</A> (MMLA - utsav)
+असामी (MMLA उत्सव) <br> <A HREF=../images/MMLAUtsav2015p.pdf>asamI</A> (MMLA - utsav)
 {{< figure width=200 src="images/MMLA_2015diwali_cover.png" >}}
 {{< figure width=200 src="images/MMLA_2015diwali_contents.png" >}}
 {{< figure width=200 src="images/MMLA_2015diwali_title.png" >}}

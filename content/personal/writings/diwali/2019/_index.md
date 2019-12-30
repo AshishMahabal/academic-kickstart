@@ -19,15 +19,15 @@ menu:
 ---
 <TABLE>
 <TR><TD>
- (dhananjay)
+लक्ष्मीदासाची कथा मूळपदी (धनंजय) <br> laxmIdAsAchI kathA mULapadI (dhananjay)
 {{< figure width=200 src="images/dhananjay_2019diwali_cover.jpg" >}}
 {{< figure width=200 src="images/dhananjay_2019diwali_title.jpg" >}}
 </TD><TD>
-(hans)
+कारटीची कथा (हंस) <br> kAraTIcI kathA (hans)
 {{< figure width=200 src="images/hans_2019diwali_cover.jpg" >}}
 {{< figure width=200 src="images/hans_2019diwali_contents.jpg" >}}
 </TD><TD>
-(mushafiri)
+स्टॉकहोम: शिल्पकलेतून भेटलेलं शहर (मुशाफिरी) <br> stokhom: shilpakaletUna bhe†alela shahar (mushafiri)
 {{< figure width=200 src="images/mushafiri_2019diwali_cover.jpg" >}}
 {{< figure width=200 src="images/mushafiri_2019diwali_contents.jpg" >}}
 </TD></TR>

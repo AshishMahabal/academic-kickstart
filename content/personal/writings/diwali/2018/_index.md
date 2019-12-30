@@ -19,7 +19,7 @@ menu:
 ---
 <TABLE>
 <TR><TD>
- (mushafiri)
+(मुशाफिरी) <br> (mushafiri)
 {{< figure width=200 src="images/mushafiri_2018diwali_cover.jpg" >}}
 </TD></TR>
 </TABLE>
