@@ -4,7 +4,7 @@ linktitle: Diwali 2014
 weight: 10
 
 # Page metadata.
-title: Diwali 2014
+title: Diwali and Special 2014
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -33,6 +33,11 @@ menu:
 {{< figure width=200 src="images/hitguj_2014diwali_cover.png" >}}
 {{< figure width=200 src="images/hitguj_2014diwali_contents.png" >}}
 {{< figure width=200 src="images/hitguj_2014diwali_title.png" >}}
+</TD><TD>
+ (आरती) <br>  (arti)
+{{< figure width=200 src="images/arti_2014special_cover.jpg" >}}
+{{< figure width=200 src="images/arti_2014special_contents.jpg" >}}
+{{< figure width=200 src="images/arti_2014special_title.jpg" >}}
 </TD><TD>
 लॉस एंजेलिसचा शिरोमणी (MMLA उत्सव) <br> los angelescha shiromani (MMLA Utsav)
 </TD></TR>

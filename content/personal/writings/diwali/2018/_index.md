@@ -21,5 +21,17 @@ menu:
 <TR><TD>
 (मुशाफिरी) <br> (mushafiri)
 {{< figure width=200 src="images/mushafiri_2018diwali_cover.jpg" >}}
+{{< figure width=200 src="images/mushafiri_2018diwali_contents.jpg" >}}
+{{< figure width=200 src="images/mushafiri_2018diwali_title.jpg" >}}
+</TD><TD>
+ (नवल)<br> (naval)
+{{< figure width=200 src="images/naval_2018diwali_cover.jpg" >}}
+{{< figure width=200 src="images/naval_2018diwali_contents.jpg" >}}
+{{< figure width=200 src="images/naval_2018diwali_title.jpg" >}}
+</TD><TD>
+ (धनंजय) <br>  (dhananjay)
+{{< figure width=200 src="images/dhananjay_2018diwali_cover.jpg" >}}
+{{< figure width=200 src="images/dhananjay_2018diwali_contents.jpg" >}}
+{{< figure width=200 src="images/dhananjay_2018diwali_title.jpg" >}}
 </TD></TR>
 </TABLE>

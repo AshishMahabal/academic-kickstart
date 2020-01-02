@@ -18,4 +18,21 @@ menu:
     weight: 12
 ---
 
-Coming soon ...
+<TABLE>
+<TR><TD>
+(ऐसी अक्षरे) <br> (aisi akshare)
+{{< figure width=200 src="images/aisiakshare_2016diwali_cover.jpg" >}}
+{{< figure width=200 src="images/aisiakshare_2016diwali_contents.jpg" >}}
+{{< figure width=200 src="images/aisiakshare_2016diwali_title.jpg" >}}
+</TD><TD>
+ (नवल)<br> (naval)
+{{< figure width=200 src="images/naval_2016diwali_cover.jpg" >}}
+{{< figure width=200 src="images/naval_2016diwali_contents.jpg" >}}
+{{< figure width=200 src="images/naval_2016diwali_title.jpg" >}}
+</TD><TD>
+ (धनंजय) <br>  (dhananjay)
+{{< figure width=200 src="images/dhananjay_2016diwali_cover.jpg" >}}
+{{< figure width=200 src="images/dhananjay_2016diwali_contents.jpg" >}}
+{{< figure width=200 src="images/dhananjay_2016diwali_title.jpg" >}}
+</TD></TR>
+</TABLE>
