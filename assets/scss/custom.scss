@@ -1,0 +1,7 @@
+.docs-toc-item.active {
+  margin-bottom: 0rem;
+}
+
+.docs-toc-item.active:not(:first-child) {
+  margin-top: 0rem;
+}
