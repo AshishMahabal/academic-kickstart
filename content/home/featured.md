@@ -63,4 +63,4 @@ subtitle = ""
  css_class = ""
 +++
 
-<A HREF="/publication/">All publications</A>
+<A HREF="publication/">All publications</A>
