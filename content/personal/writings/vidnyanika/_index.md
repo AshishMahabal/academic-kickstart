@@ -19,7 +19,7 @@ editable: false
 menu:
   writings:
     name: Vidnyanika
-    weight: 11
+    weight: 61
 ---
 
 &#2357;&#2367;&#2332;&#2381;&#2334;&#2366;&#2344;&#2367;&#2325;&#2366; maayboli links:<P>

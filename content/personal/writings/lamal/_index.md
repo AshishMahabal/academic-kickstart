@@ -19,6 +19,6 @@ editable: false
 menu:
   writings:
     name: LAMAL
-    weight: 11
+    weight: 41
 ---
 http://www.astro.caltech.edu/~aam/lamal/bytopicd.html

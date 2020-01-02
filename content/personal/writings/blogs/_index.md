@@ -19,7 +19,7 @@ editable: false
 menu:
   writings:
     name: Blogs
-    weight: 11
+    weight: 91
 ---
 
 <TD><A HREF=http://excellentboardgames.blogspot.com/>Board games
