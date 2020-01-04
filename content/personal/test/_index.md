@@ -16,9 +16,12 @@ editable: false
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
+
+
 menu:
-  personal:
-    name: test
-    weight: 8
+  personal2:
+    name: 
+    weight: -110
+
 ---
 <A href=foo>foo</A>

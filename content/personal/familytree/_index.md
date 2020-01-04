@@ -19,7 +19,7 @@ editable: false
 menu:
   personal:
     name: Family Tree
-    weight: 30
+    weight: 99
 ---
 
 Get in touch with me if you want to learn about our compilation
