@@ -20,6 +20,8 @@ The <A HREF="https://www.ztf.caltech.edu/">Zwicky Transient Facility (ZTF)</A> i
 
 I lead the machine learning (ML) for the survey, and the team works on various classification aspects e.g. separating real-bogus sources, identifying streaking asteroids, pigeon holing sources in to their subclasses using advanced statistical and computational methods. Traditional machine learning methods are used for smaller data sets and deep learning (CNNs, generative etc.) when data are plentiful.
 
+<!--
 Publications: <BR>
-<A HREF='/publication/?q=ztf'>keyword ztf</A><BR>
-<A HREF='/publication/?q=zwicky'>keyword zwicky</A><BR>
+#<A HREF="/publication/">keyword ztf</A><BR>
+#<A HREF="/publication/?q=zwicky">keyword zwicky</A><BR>
+-->

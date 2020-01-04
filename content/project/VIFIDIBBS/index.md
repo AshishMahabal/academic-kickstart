@@ -13,5 +13,5 @@ A Virtual Information-Fabric Infrastructure (VIFI) is created, allowing scientis
 
 <!--
 Publications: <BR>
-<A HREF='/publication/?q=vifi'>keyword vifi</A><BR>
+<A HREF='publication/?q=vifi'>keyword vifi</A><BR>
 -->

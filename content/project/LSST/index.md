@@ -15,5 +15,7 @@ The <A HREF="https://www.lsst.org/">Large Synoptic Survey Telescope (LSST)</A> i
 
 I was a co-chair of the <A HREF="https://lsst-tvssc.github.io/">Transient and Variable Source (TVS) Science Collaboration</A> for a few years, and I am part of the Informatics and Statistics SC. The alert brokers for LSST are currently training on the alerts produced by <A HREF="/project/ztf">ZTF</A>.
 
+<!--
 Publications: <BR>
 <A HREF='/publication/?q=lsst'>keyword lsst</A><BR>
+-->

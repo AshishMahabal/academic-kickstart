@@ -19,6 +19,8 @@ The <A HREF="https://catalina.lpl.arizona.edu/">Catalina Sky Survey (CSS)</A> NE
 
 I worked on classification of transients as well as building some initial infrastructure.
 
+<!--
 Publications: <BR>
 <A HREF='/publication/?q=crts'>keyword crts</A><BR>
 <A HREF='/publication/?q=catalina'>keyword catalina</A><BR>
+-->

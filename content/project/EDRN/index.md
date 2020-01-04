@@ -17,4 +17,6 @@ I work with the Data Science team at JPL to do machine learning for early detect
 
 Our Virtual Reality work on this (and MCL) was recently featured in SigGraph (2019, Los Angeles).
 
+<!--
 <A HREF=/publication/pub0106/>From Stars to Patients</A><BR>
+-->
