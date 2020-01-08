@@ -12,19 +12,13 @@ view = 2
 image = ""
 caption = ""
 +++
-
+<!--
 <TABLE>
 <TR><TH>Teaching and Talks</TH></TR>
 
 <TH>Sundry</TH>
 <TR> <TD> <A HREF="http://www.vostat.org/">VOStat</A> - advanced statistics for VO<BR> </TD> </TR>
-<!--
-<TR>
-<TD>
-<A HREF="other_projects.html">Other projects</A><BR>
-</TD>
-</TR>
--->
+
 <TR>
 <TD>
 Optical morphology of radio galaxies<BR>
@@ -39,3 +33,4 @@ Optical morphology of radio galaxies<BR>
 </TD>
 </TR>
 </TABLE>
+-->
