@@ -43,10 +43,9 @@ Loris Malaguzzi's Hundred:
 &#2358;&#2306;&#2349;&#2352;
 </A><BR>
 Lewis Caroll's Jabberwocky:
-<A HREF=http://www.astro.caltech.edu/~aam/fun/jabberwocky.html>
-&#2332;&#2366;&#2348;&#2352;&#2357;&#2379;&#2325;&#2366;</A>
+<A HREF=jabberwocky>&#2332;&#2366;&#2348;&#2352;&#2357;&#2379;&#2325;&#2366;</A>
 <BR>
 Billy Collins' Introduction To Poetry:
-<A HREF=http://www.astro.caltech.edu/~aam/fun/IntroToPoetry.jpg>
+<A HREF=introtopoetry>
 &#2325;&#2357;&#2367;&#2340;&#2375;&#2330;&#2368; &#2323;&#2355;&#2326;</A>
 <BR>
