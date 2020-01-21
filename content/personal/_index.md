@@ -4,13 +4,18 @@ linktitle: Personal
 summary: Various Personal
 weight: 10
 
-# Page metadata.
-title: Personal
+type: docs  # Do not modify.
+
+
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
+
+# Page metadata.
+title: Personal
+
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
-type: docs  # Do not modify.
+
 editable: false
 
 # Add menu entry to sidebar.
@@ -31,9 +36,11 @@ Explore the links in the menu to see what I have cared about to put together ove
 <LI><A HREF={{< ref "ornithology/" >}}>Ornithology</A>: The bird stuff.
 <LI><A HREF={{< ref "music/" >}}>Music</A>: A few experiments.
 <LI><A HREF={{< ref "fun/" >}}>Fun</A>: Need I say more? Includes some games.
+<LI><A HREF={{< ref "cricket/" >}}>Obscure Cricket Stats</A>
 <LI><A HREF={{< ref "pasadena/" >}}>Pasadena</A>: The city where I have spent more years than any other.
 <LI><A HREF={{< ref "familytree/" >}}>Family Tree</A>: Connecting folks across generations and branches.
 </UL>
+
 
 <!--
 A bit about me ...
