@@ -22,9 +22,9 @@ menu:
     weight: 40
 ---
 
-<B>TL;DR There is only one pair that has batted together at least 10 times and has an amazingly large average.</B>
+<B>TL;DR There is only one pair that has batted together at least 10 times while chasing and has an amazingly large average.</B>
 
-In the third match against Australia in Jan 2020, Virat Kohli and Rohit Sharma put together their 11th century partnership. That is an amazing statistic. Not only have you played together 11 times, but you have played enough number of times to in fact manage 11 partnerships of 100+. What is remarkable is that they have done that in just 47 innings together. Only one pair has managed more century partnerships, and that is 17 by Sachin Tendulkar and Sourav Ganguly in 91 innings. They had the slight advantage of opening together, and thus the possibility of having more time for a longer partnership (but then a smaller chance of staying not out).
+In the third match against Australia in Jan 2020, Virat Kohli and Rohit Sharma put together their 11th century partnership while chasing. That is an amazing statistic. Not only have you played together 11 times, but you have played enough number of times to in fact manage 11 partnerships of 100+. What is remarkable is that they have done that in just 47 innings together. This entire article is about ODI chases. Only one pair has managed more century partnerships, and that is 17 by Sachin Tendulkar and Sourav Ganguly in 91 innings. They had the slight advantage of opening together, and thus the possibility of having more time for a longer partnership (but then a smaller chance of staying not out).
 
 Here is the table of top five pairs:
 {{< figure src="images/Max100.png" >}}
