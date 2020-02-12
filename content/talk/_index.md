@@ -1,14 +1,39 @@
-+++
-title = "Recent & Upcoming Talks"
+---
+title: "Upcoming Talks/Meetings"
+---
+<BR>
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view = 2
+13 Feb 2020 ASI, Tirupati <BR>
+16 Feb 2020 Birla Science Center, Hyderabad <BR>
+24 Feb UCR, Riverside <BR>
+06 Mar SIDIM XXXV <BR>
+09 Mar Arecibo Observatory <BR>
 
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-+++
+<!--
+#24 Feb UCR
+#06 Mar SIDIM XXXV
+#09 Mar Arecibo Observatory
+#26 Mar NASA AI
+#29 Mar Cancer AI (poster)
+#01 Apr EDRN
+#08 Apr MLAI?
+#13 Apr Space Nebulae
+
+#26 Apr ICLR?
+
+#13 May Athena
+
+#15 Jun AstroInformatics
+
+#22 Jun PSIDA
+
+#29 Jun EWASS?
+
+#27 Jul GAP transients
+
+#10 Aug LSSDS
+
+#11 Sep BISS7
+#14 Sep ASBD2
+#18 Sep EDRN?
+-->
