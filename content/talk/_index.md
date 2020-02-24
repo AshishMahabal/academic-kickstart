@@ -3,18 +3,14 @@ title: "Upcoming Talks/Meetings"
 ---
 <BR>
 
-13 Feb 2020 ASI, Tirupati <BR>
-16 Feb 2020 Birla Science Center, Hyderabad <BR>
-24 Feb UCR, Riverside <BR>
-06 Mar SIDIM XXXV <BR>
+27 Feb UCR, Riverside <BR>
+06 Mar SIDIM XXXV - invited keynote<BR>
 09 Mar Arecibo Observatory <BR>
+26 Mar NASA AI <BR>
+29 Mar Cancer AI (poster) <BR>
 
 <!--
-#24 Feb UCR
-#06 Mar SIDIM XXXV
-#09 Mar Arecibo Observatory
-#26 Mar NASA AI
-#29 Mar Cancer AI (poster)
+
 #01 Apr EDRN
 #08 Apr MLAI?
 #13 Apr Space Nebulae
