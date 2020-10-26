@@ -18,5 +18,6 @@ abstract: "Catalina Real-Time Transient Survey (CRTS) is a synoptic sky survey u
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1102.5004v1

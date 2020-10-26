@@ -17,5 +17,6 @@ abstract: "AstroStat is an easy-to-use tool for performing statistical analysis 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1503.02989v1

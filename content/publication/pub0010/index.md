@@ -25,5 +25,6 @@ abstract: "We report the discovery of the optical and radio afterglow of GRB 010
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0201399v1

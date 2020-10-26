@@ -58,5 +58,6 @@ abstract: "Over the past century, major advances in astronomy and astrophysics h
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1903.06796v1

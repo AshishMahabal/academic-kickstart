@@ -9,5 +9,6 @@ abstract: "Observations of QSOs at z ~ 5.7 - 6.4 show the appearance of Gunn-Pet
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0509065v1

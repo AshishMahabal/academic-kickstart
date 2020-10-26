@@ -40,5 +40,6 @@ abstract: "There is significant interest in the models for production of short g
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1901.11385v1

@@ -18,5 +18,6 @@ abstract: "We describe the work of the Meta-Institute for Computational Astrophy
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1301.6808v1

@@ -17,5 +17,6 @@ abstract: "We present measurements of the small-scale (0.1<~ r <~ 1 Mpc/h) quasa
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0908.3908v1

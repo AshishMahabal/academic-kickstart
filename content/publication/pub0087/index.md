@@ -13,5 +13,6 @@ abstract: "Many synoptic surveys are observing large parts of the sky multiple t
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1401.3211v2

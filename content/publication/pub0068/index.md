@@ -11,5 +11,6 @@ abstract: "Sky surveys represent a fundamental data basis for astronomy. We use 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1203.5111v2

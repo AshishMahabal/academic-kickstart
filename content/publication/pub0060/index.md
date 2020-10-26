@@ -17,5 +17,6 @@ abstract: "Exploration of the time domain - variable and transient objects and p
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1111.0313v1

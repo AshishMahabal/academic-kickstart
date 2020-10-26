@@ -32,5 +32,6 @@ abstract: "General relativity predicts that short orbital period binaries emit s
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1907.11291v1

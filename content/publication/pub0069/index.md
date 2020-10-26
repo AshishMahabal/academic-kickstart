@@ -13,5 +13,6 @@ abstract: "We study the time variability of five Fe Low ionization Broad Absorpt
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1204.3629v1

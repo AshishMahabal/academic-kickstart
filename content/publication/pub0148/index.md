@@ -33,5 +33,6 @@ abstract: "(Abridged) Palomar Gattini-IR is a new wide-field, near-infrared robo
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1910.13319v1

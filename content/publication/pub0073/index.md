@@ -13,5 +13,6 @@ abstract: "An automated, rapid classification of transient events detected in th
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1209.1681v1

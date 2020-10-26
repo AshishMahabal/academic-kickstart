@@ -35,5 +35,6 @@ abstract: "We present measurements of rotations of the optical polarization of b
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1601.03392v2

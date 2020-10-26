@@ -11,5 +11,6 @@ abstract: "A buffer k-d tree is a k-d tree variant for massively-parallel neares
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1512.02831v1

@@ -15,5 +15,6 @@ abstract: "There is an increasing number of large, digital, synoptic sky surveys
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0802.3199v1

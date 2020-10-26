@@ -17,5 +17,6 @@ abstract: "The Catalina Real-time Transient Survey (CRTS) currently covers 33,00
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1111.2566v1

@@ -15,5 +15,6 @@ abstract: "Although white dwarfs are believed to be the end point of most stella
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1009.3048v1

@@ -56,5 +56,6 @@ abstract: "The Zwicky Transient Facility is a large optical survey in multiple f
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1902.01936v1

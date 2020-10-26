@@ -19,5 +19,6 @@ abstract: "We present 855 cataclysmic variable candidates detected by the Catali
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1404.3732v1

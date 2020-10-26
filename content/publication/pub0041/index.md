@@ -17,5 +17,6 @@ abstract: "Exploration of time domain is now a vibrant area of research in astro
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0810.4527v1

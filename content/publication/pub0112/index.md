@@ -11,5 +11,6 @@ abstract: "The time domain is the emerging forefront of astronomical research wi
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1612.07271v1

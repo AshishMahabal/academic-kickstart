@@ -46,5 +46,6 @@ abstract: "The Zwicky Transient Facility (ZTF) is performing a three-day cadence
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1910.12973v1

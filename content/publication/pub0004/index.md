@@ -13,5 +13,6 @@ abstract: "Systematic exploration of the observable parameter space, covered by 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0012453v1

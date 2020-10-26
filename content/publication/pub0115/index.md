@@ -18,5 +18,6 @@ abstract: "CRTS J084133.15+200525.8 is an optically bright quasar at z=2.345 tha
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1704.03923v1

@@ -33,5 +33,6 @@ abstract: "We report results from the Supernova Photometric Classification Chall
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1008.1024v2

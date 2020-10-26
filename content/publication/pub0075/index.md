@@ -13,5 +13,6 @@ abstract: "There are many occasions when one does not have complete information 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1211.3607v1

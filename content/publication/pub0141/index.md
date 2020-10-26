@@ -17,5 +17,6 @@ abstract: "We present the results of a systematic search for quasars in the Cata
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1905.02262v1

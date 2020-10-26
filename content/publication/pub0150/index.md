@@ -14,5 +14,6 @@ abstract: "Polarization measurements done using Imaging Polarimeters such as the
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1911.08327v1

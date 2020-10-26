@@ -13,5 +13,6 @@ abstract: "We conducted an exploratory search for quasars at z~ 6 - 8, using the
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0805.4184v1

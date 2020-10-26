@@ -10,5 +10,6 @@ abstract: "Big Data are revolutionizing nearly every aspect of the modern societ
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1512.05272v1

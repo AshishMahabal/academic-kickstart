@@ -69,5 +69,6 @@ abstract: "Wide-field optical surveys have begun to uncover large samples of fas
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1808.00969v4

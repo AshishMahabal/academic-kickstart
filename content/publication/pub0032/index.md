@@ -10,5 +10,6 @@ abstract: "In astronomy multiple images are frequently obtained at the same posi
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0612707v1

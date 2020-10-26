@@ -13,5 +13,6 @@ abstract: "We present the photometric calibration technique for the Digitized Se
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0210298v1

@@ -13,5 +13,6 @@ abstract: "The nature of scientific and technological data collection is evolvin
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1601.04385v1

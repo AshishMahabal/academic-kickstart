@@ -30,5 +30,6 @@ abstract: "We use results of our 3 year polarimetric monitoring program to inves
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1710.08922v1

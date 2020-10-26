@@ -11,5 +11,6 @@ abstract: "This paper presents a new period finding method based on conditional 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1306.6664v2

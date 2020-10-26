@@ -27,5 +27,6 @@ abstract: "Of all the well localized gamma-ray bursts, GRB 000911 has the longes
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0110315v1

@@ -10,5 +10,6 @@ abstract: "We report a discovery of a quasar at z = 4.96 +- 0.03 within a few Mp
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0306423v1

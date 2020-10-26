@@ -12,5 +12,6 @@ abstract: "There has been an unprecedented and continuing growth in the volume, 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0208246v1

@@ -66,5 +66,6 @@ abstract: "Multi-messenger astrophysics is a fast-growing, interdisciplinary fie
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1911.11779v1

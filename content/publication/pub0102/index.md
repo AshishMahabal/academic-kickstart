@@ -28,5 +28,6 @@ abstract: "PSR J2129-0429 is a  arcsecredback arcsec eclipsing millisecond pulsa
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1510.00721v1

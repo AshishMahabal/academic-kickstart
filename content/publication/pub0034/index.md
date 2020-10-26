@@ -11,5 +11,6 @@ abstract: "We report the discovery of two low-luminosity quasars at z~4, both of
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0705.3638v1

@@ -94,5 +94,6 @@ abstract: "We present the results of a gravitational lensing analysis of the bri
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1104.4119v1

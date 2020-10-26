@@ -43,5 +43,6 @@ abstract: "While tidal disruption events (TDEs) have long been heralded as labor
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/2001.01409v1

@@ -18,5 +18,6 @@ abstract: "We use seven year's worth of observations from the Catalina Sky Surve
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1501.00941v1

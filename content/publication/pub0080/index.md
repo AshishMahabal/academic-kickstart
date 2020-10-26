@@ -13,5 +13,6 @@ abstract: "This paper presents a comparison of popular period finding algorithms
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1307.2209v1

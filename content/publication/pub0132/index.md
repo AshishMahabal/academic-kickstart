@@ -55,5 +55,6 @@ abstract: "The Zwicky Transient Facility (ZTF) is a new robotic time-domain surv
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1902.01872v1

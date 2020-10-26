@@ -11,5 +11,6 @@ abstract: "We present observations of an optically-faint quasar, RD J114816.2+52
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0510471v1

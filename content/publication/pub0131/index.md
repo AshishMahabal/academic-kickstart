@@ -54,5 +54,6 @@ abstract: "This report provides an overview of recent work that harnesses the Bi
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1902.00522v1

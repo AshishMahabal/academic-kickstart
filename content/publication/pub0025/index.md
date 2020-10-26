@@ -17,5 +17,6 @@ abstract: "The Grist project (http://grist.caltech.edu/) is developing a grid-te
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0411589v1

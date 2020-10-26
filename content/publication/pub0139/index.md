@@ -27,5 +27,6 @@ abstract: "Both multi-messenger astronomy and new high-throughput wide-field sur
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1904.05922v2

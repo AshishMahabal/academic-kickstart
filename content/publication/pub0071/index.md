@@ -17,5 +17,6 @@ abstract: "We present a sample of 120 dust-reddened quasars identified by matchi
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1207.2175v1

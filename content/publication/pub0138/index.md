@@ -21,5 +21,6 @@ abstract: "We present DeepStreaks, a convolutional-neural-network, deep-learning
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1904.05920v2

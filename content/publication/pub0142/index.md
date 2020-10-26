@@ -32,5 +32,6 @@ abstract: "The first two months of the third Advanced LIGO and Virgo observing r
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1906.00806v2

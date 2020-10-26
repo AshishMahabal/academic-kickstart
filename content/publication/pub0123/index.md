@@ -15,5 +15,6 @@ abstract: "We present a preparatory spectroscopic survey to identify radio-brigh
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1802.00482v1

@@ -32,5 +32,6 @@ abstract: "We describe ZStreak, a semi-real-time pipeline specialized in detecti
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1904.09645v1

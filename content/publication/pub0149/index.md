@@ -56,5 +56,6 @@ abstract: "We present visible and near-infrared photometric and spectroscopic ob
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1910.14004v2

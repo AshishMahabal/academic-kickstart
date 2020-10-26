@@ -13,5 +13,6 @@ abstract: "We have conducted a spectroscopic survey to find faint quasars (-26.0
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0912.2799v1

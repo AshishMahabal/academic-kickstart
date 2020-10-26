@@ -50,5 +50,6 @@ abstract: "Deep galaxy surveys have revealed that the global star formation rate
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1708.07371v1

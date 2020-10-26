@@ -41,5 +41,6 @@ abstract: "We report on the discovery and observations of the extremely luminous
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1103.5514v1

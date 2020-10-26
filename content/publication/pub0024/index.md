@@ -25,5 +25,6 @@ abstract: "Exploration of the time variability on the sky over a broad range of 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0408035v1

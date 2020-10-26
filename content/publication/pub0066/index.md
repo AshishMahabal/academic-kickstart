@@ -10,5 +10,6 @@ abstract: "We report a dynamically evolving low ionization broad absorption line
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1201.0431v1

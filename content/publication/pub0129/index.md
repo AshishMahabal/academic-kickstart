@@ -14,5 +14,6 @@ abstract: "We present an analysis of nine years of Catalina Surveys optical phot
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1810.01448v1

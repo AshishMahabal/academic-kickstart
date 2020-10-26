@@ -13,5 +13,6 @@ abstract: "Images of the CO 2-1 line emission, and the radio continuum emission,
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0304124v1

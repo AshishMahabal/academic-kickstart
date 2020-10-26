@@ -19,5 +19,6 @@ abstract: "We present the analysis of 12227 type-ab RR Lyrae found among the 200
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1211.2866v1

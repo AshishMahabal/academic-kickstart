@@ -19,5 +19,6 @@ abstract: "We report a framework for spectroscopic follow-up design for optimizi
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1804.03765v3

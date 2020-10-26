@@ -19,5 +19,6 @@ abstract: "We describe briefly the Palomar-Quest (PQ) digital synoptic sky surve
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0801.3005v1

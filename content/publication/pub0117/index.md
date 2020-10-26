@@ -21,5 +21,6 @@ abstract: "A systematic study on the long-term periodicities of known Galactic c
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1706.06731v1

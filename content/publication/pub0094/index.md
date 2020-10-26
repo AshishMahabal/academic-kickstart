@@ -17,5 +17,6 @@ abstract: "We present the results of a deep, wide-area variability survey in the
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1410.7653v1

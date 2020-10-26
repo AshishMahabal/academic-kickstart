@@ -10,5 +10,6 @@ abstract: "One major component of the VO will be catalogs measuring gigabytes an
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0110184v1

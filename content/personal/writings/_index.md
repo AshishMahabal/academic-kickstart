@@ -31,6 +31,7 @@ some travelogues, including a few that are predominantly picture-based.
 ## <A HREF=diwali>In Diwali magazines</A>
 <!-- <A HREF=lamal.html>For the bi-monthly LAMAL sessions</A><BR> -->
 ## <A HREF=http://www.astro.caltech.edu/~aam/lamal/bytopicd.html>For the bi-monthly LAMAL sessions</A>
+## <A HREF=lamal2/bytopicd.html>For the bi-monthly LAMAL sessions</A>
 ## <A HREF=sahityavishwa>For the NJ Sahitya Vishwa</A>
 ## <A HREF=travelogues>About a few travels</A>
 ## <A HREF=vidnyanika>vidnyanika</A>

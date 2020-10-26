@@ -20,5 +20,6 @@ abstract: "We identify 3,113 highly variable objects in 7,200 square degrees of 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0909.0014v2

@@ -14,5 +14,6 @@ abstract: "Digital synoptic sky surveys pose several new object classification c
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0810.4945v1

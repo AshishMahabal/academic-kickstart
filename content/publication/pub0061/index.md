@@ -12,5 +12,6 @@ abstract: "Synoptic sky surveys are becoming the largest data generators in astr
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1111.2078v1

@@ -18,5 +18,6 @@ abstract: "The clustering of quasars on small scales yields fundamental constrai
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0908.3907v1

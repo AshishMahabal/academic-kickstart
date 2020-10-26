@@ -97,5 +97,6 @@ abstract: "We report the discovery of a bright ($f(250mum) > 400$ mJy), multiply
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1104.4113v1

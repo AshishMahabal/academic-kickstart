@@ -14,5 +14,6 @@ abstract: "Astronomy light curves are sparse, gappy, and heteroscedastic. As a r
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1709.06257v1

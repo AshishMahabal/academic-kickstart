@@ -11,5 +11,6 @@ abstract: "Skyalert.org is a web application to collect and disseminate observat
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0906.2186v1

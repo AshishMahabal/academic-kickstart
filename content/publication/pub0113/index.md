@@ -11,5 +11,6 @@ abstract: "We describe here the parallels in astronomy and earth science dataset
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1701.01775v1

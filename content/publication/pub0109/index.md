@@ -32,5 +32,6 @@ abstract: "We present a new set of optical polarization plane rotations in blaza
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1607.04292v1

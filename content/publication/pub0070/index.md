@@ -14,5 +14,6 @@ abstract: "The time domain has been identified as one of the most important area
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1206.4035v1

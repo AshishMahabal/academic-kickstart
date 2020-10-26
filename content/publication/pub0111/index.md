@@ -34,5 +34,6 @@ abstract: "We present average R-band optopolarimetric data, as well as variabili
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1609.00640v1

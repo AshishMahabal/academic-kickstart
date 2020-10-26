@@ -19,5 +19,6 @@ abstract: "We investigate the properties of 367 ultra-short period binary candid
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1406.4504v1

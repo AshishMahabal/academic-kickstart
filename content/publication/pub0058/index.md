@@ -15,5 +15,6 @@ abstract: "We describe the development of a system for an automated, iterative, 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1110.4655v1

@@ -17,5 +17,6 @@ abstract: "Efficient automated detection of flux-transient, reoccurring flux-var
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1907.11259v1

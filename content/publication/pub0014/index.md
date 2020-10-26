@@ -13,5 +13,6 @@ abstract: "We present a new, objectively defined catalog of candidate galaxy clu
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0301274v1

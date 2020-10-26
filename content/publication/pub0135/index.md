@@ -123,5 +123,6 @@ abstract: "The Zwicky Transient Facility (ZTF), a public-private enterprise, is 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1902.01945v1

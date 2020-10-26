@@ -12,5 +12,6 @@ abstract: "Astronomy has been at the forefront of the development of the techniq
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1208.2480v1

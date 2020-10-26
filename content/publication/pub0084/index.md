@@ -14,5 +14,6 @@ abstract: "We compare quasar selection techniques based on their optical variabi
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1401.1785v1

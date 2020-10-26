@@ -254,5 +254,6 @@ abstract: "A survey that can cover the sky in optical bands over wide fields to 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0912.0201v1

@@ -21,5 +21,6 @@ abstract: "Nowadays, many scientific areas share the same need of being able to 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1010.4843v2

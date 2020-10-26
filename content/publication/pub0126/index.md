@@ -46,5 +46,6 @@ abstract: "We present Zwicky Transient Facility (ZTF) observations of the tidal 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1809.02608v2

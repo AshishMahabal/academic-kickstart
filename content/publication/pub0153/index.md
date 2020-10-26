@@ -26,5 +26,6 @@ abstract: "While it is clear that Type Ia supernovae (SNe) are the result of the
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/2001.00598v2

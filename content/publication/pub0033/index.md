@@ -13,5 +13,6 @@ abstract: "We report the discovery of the first known probable case of a physica
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0701155v1

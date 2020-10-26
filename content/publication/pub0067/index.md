@@ -10,5 +10,6 @@ abstract: "Astronomy has always been at the forefront of information technology,
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1201.1281v1

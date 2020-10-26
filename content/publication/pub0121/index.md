@@ -8,5 +8,6 @@ abstract: "Large sky surveys are increasingly relying on image subtraction pipel
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1710.01422v1

@@ -16,5 +16,6 @@ abstract: "We present the results of a pilot survey to find dust-reddened quasar
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1309.6626v1

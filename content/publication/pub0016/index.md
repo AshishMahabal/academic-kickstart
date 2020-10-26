@@ -21,5 +21,6 @@ abstract: "Studies of the cosmic gamma-ray bursts (GRBs) and their host galaxies
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0302004v1

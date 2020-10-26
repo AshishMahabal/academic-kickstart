@@ -13,5 +13,6 @@ abstract: "We present the most precise estimate to date of the clustering of qua
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1702.03491v1

@@ -10,5 +10,6 @@ abstract: "Discovery of the cosmic reionization epoch would represent a signific
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0108069v2

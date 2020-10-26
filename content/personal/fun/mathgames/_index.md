@@ -1,3 +1,5 @@
+---
+---
 <B>(Major Percy Alexander) MacMahon (1854-1929) triangles</B><P>
 How many ways are there to distictly edge color a set of triangles?<BR>
 Given a single color, that is the only one you can use to color all edges.<BR>

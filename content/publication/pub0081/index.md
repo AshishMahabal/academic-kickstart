@@ -13,5 +13,6 @@ abstract: "We present the discovery of a plausible super-luminous supernova (SLS
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1308.2065v2

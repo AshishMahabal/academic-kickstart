@@ -26,5 +26,6 @@ abstract: "One of the new frontiers of astronomical research is the exploration 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0412164v1

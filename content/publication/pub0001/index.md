@@ -11,5 +11,6 @@ abstract: "We present broad band surface photometry of the radio galaxy 3C270 (N
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/9501029v2

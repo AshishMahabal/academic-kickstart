@@ -10,5 +10,6 @@ abstract: "A Topic Map is a structured network of hyperlinks that points into an
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0210404v1

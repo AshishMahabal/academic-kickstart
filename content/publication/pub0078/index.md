@@ -11,5 +11,6 @@ abstract: "High-volume feature-rich data sets are becoming the bread-and-butter 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1302.5129v1

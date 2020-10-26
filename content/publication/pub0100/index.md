@@ -91,5 +91,6 @@ abstract: "We report the discovery and characterisation of a deeply eclipsing AM
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1507.04663v1

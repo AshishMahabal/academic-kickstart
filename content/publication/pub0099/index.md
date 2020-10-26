@@ -35,5 +35,6 @@ abstract: "The stages before the formation of stars in molecular clouds are poor
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1503.03054v4

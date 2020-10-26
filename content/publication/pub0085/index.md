@@ -23,5 +23,6 @@ abstract: "We use optical data from the Palomar Transient Factory (PTF) and the 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1401.0538v1

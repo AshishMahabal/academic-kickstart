@@ -14,5 +14,6 @@ abstract: "Like every other field of intellectual endeavor, astronomy is being r
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0108346v1

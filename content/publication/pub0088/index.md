@@ -12,5 +12,6 @@ abstract: "We present results of our time variability studies of Mg II and Al II
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1402.2980v1

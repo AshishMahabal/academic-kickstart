@@ -12,5 +12,6 @@ abstract: "The time domain community wants robust and reliable tools to enable p
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1111.2356v1

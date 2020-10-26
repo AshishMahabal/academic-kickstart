@@ -10,5 +10,6 @@ abstract: "The challenge in searching for non-radio-pulsing isolated neutron sta
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0302107v1

@@ -9,5 +9,6 @@ abstract: "A network of three or more gravitational wave detectors simultaneousl
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1910.12143v1

@@ -13,5 +13,6 @@ abstract: "We present an optically selected galaxy cluster catalog from ~ 2,700 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0406123v1

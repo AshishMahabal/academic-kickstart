@@ -14,5 +14,6 @@ abstract: "We present a comparison of optical and X-ray properties of galaxy clu
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0605292v2

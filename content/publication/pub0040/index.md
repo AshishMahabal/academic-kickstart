@@ -19,5 +19,6 @@ abstract: "We report on the results from the first six months of the Catalina Re
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0809.1394v2

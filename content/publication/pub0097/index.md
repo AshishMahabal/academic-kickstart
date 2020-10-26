@@ -15,5 +15,6 @@ abstract: "Quasars have long been known to be variable sources at all wavelength
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1501.01375v1

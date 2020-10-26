@@ -30,5 +30,6 @@ abstract: "Classification of transient and variable light curves is an essential
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1809.11145v1

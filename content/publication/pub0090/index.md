@@ -27,5 +27,6 @@ abstract: "We present ~47,000 periodic variables found during the analysis of 5.
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1405.4290v1

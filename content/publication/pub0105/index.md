@@ -112,5 +112,6 @@ abstract: "Outbursts from gamma-ray quasars provide insights on the relativistic
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1512.04434v1

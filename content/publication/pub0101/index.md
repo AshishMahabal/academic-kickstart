@@ -15,5 +15,6 @@ abstract: "Hierarchical assembly models predict a population of supermassive bla
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1507.07603v1

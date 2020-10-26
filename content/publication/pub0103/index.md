@@ -14,5 +14,6 @@ abstract: "The optical light curve of the quasar PG 1302-102 at $z = 0.278$ show
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1511.01515v1

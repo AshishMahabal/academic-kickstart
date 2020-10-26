@@ -14,5 +14,6 @@ abstract: "There is a large degree of variety in the optical variability of quas
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1706.03079v1

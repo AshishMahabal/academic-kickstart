@@ -18,5 +18,6 @@ abstract: "We present a sample of $i_{775}$-dropout candidates identified in fiv
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/0805.1412v2

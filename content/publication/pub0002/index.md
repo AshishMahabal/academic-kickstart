@@ -9,5 +9,6 @@ abstract: "We present de Vaucouleurs' effective radii in B and R bands for a sam
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/9903104v1

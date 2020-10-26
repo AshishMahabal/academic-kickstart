@@ -19,5 +19,6 @@ abstract: "With the recent release of large (i.e., > hundred million objects), w
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0304166v1

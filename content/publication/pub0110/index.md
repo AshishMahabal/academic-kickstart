@@ -20,5 +20,6 @@ abstract: "We report the results of our radio, optical and infra-red studies of 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1607.05080v2

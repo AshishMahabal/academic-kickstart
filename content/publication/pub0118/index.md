@@ -111,5 +111,6 @@ abstract: "The Large Synoptic Survey Telescope is designed to provide an unprece
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1708.04058v1

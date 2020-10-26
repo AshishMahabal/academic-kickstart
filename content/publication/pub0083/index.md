@@ -16,5 +16,6 @@ abstract: "The amount of collected data in many scientific fields is increasing,
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1310.1976v1

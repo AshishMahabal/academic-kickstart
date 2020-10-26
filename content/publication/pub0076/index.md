@@ -18,5 +18,6 @@ abstract: "We present the analysis of 1,207 RR Lyrae found in photometry taken b
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1301.6168v1

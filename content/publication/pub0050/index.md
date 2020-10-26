@@ -13,5 +13,6 @@ abstract: "We present the first case of strong gravitational lensing by a QSO : 
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1002.4991v2

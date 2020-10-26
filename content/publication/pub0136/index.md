@@ -39,5 +39,6 @@ abstract: "We present the design and performance of RoboPol, a four-channel opti
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1902.08367v1

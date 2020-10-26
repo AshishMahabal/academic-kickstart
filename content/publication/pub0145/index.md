@@ -21,5 +21,6 @@ abstract: "This Astro2020 State of the Profession Consideration White Paper high
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1909.11714v1

@@ -17,5 +17,6 @@ abstract: "We report the discovery of three new cases of QSOs acting as strong g
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1110.5514v1

@@ -21,5 +21,6 @@ abstract: "Near-Earth Objects (NEOs) that orbit the Sun on or within Earth's orb
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1912.06109v1

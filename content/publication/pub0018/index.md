@@ -13,5 +13,6 @@ abstract: "We have identified eighty-four small, high density groups of galaxies
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0302382v1

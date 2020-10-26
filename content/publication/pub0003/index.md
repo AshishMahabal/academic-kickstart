@@ -11,5 +11,6 @@ abstract: "Our current understanding of the low surface brightness universe is q
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/astro-ph/0010619v1

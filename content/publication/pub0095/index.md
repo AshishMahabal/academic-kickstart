@@ -19,5 +19,6 @@ abstract: "Effective data visualization is a key part of the discovery process i
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1410.7670v1

@@ -21,5 +21,6 @@ abstract: "This article offers a short guide to the steps scientists can take to
 featured: true
 tags:
 math: true
+publication_types: ["2"]
 ---
 http://arxiv.org/abs/1401.2134v1
