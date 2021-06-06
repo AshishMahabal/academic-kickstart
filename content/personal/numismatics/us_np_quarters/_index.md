@@ -219,7 +219,7 @@ Block Island NWR - RI (DP)</TD>
 </TR>
 
 <TR>
-<TD>2019<BR>1/0</TD>
+<TD>2019<BR>3/0</TD>
 <TD><IMG WIDTH=100 SRC=../USimages/lowell-NHP-2019.jpg></TD>
 <TD><IMG WIDTH=100 SRC=../USimages/american-memorial-park-2019.jpg></TD>
 <TD><IMG WIDTH=100 SRC=../USimages/war-in-the-pacific-2019.jpg></TD>
@@ -228,16 +228,16 @@ Block Island NWR - RI (DP)</TD>
 </TR>
 <TR>
 <TD></TD>
-<TD BGCOLOR="#FF0000">
-Lowell NHP - MA</TD>
+<TD BGCOLOR="#FFFF00">
+Lowell NHP - MA (D)</TD>
 <TD BGCOLOR="#FF0000">
 American MP - NMI</TD>
 <TD BGCOLOR="#FFFF00">
 War in the Pacific NHP - Guam (D)</TD>
 <TD BGCOLOR="#FF0000">
 San Antonio Missions NHP - TX</TD>
-<TD BGCOLOR="#FF0000">
-Frank Church River of No Return W - ID</TD>
+<TD BGCOLOR="#FFFF00">
+Frank Church River of No Return W - ID (D)</TD>
 </TR>
 <TR>
     <TD>2020<BR>2/0</TD>
