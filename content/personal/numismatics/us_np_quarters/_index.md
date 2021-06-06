@@ -197,7 +197,7 @@ George Rogers Clark NHP - IN (DP)</TD>
 </TR>
 
 <TR>
-<TD>2018<BR>4/0</TD>
+<TD>2018<BR>4/1</TD>
 <TD><IMG WIDTH=100 SRC=../USimages/pictured-rocks-michigan-2018.jpg></TD>
 <TD><IMG WIDTH=100 SRC=../USimages/apostle-islands-wisconsin-2018.jpg></TD>
 <TD><IMG WIDTH=100 SRC=../USimages/voyageurs-minnesota-2018.jpg></TD>
@@ -214,8 +214,8 @@ Apostle Islands NL - WI (D)</TD>
 Voyageurs NP - MN (D)</TD>
 <TD BGCOLOR="#FF0000">
 Cumberland Island NS - GA</TD>
-<TD BGCOLOR="#FFFF00">
-Block Island NWR - RI (D)</TD>
+<TD BGCOLOR="#00FF00">
+Block Island NWR - RI (DP)</TD>
 </TR>
 
 <TR>
@@ -238,6 +238,37 @@ War in the Pacific NHP - Guam (D)</TD>
 San Antonio Missions NHP - TX</TD>
 <TD BGCOLOR="#FF0000">
 Frank Church River of No Return W - ID</TD>
+</TR>
+<TR>
+    <TD>2020<BR>2/0</TD>
+    <TD><IMG WIDTH=100 SRC=../USimages/2020NPAmericanSamoa.jpeg></TD>
+    <TD><IMG WIDTH=100 SRC=../USimages/2020NHSWeirFarm.jpeg></TD>
+    <TD><IMG WIDTH=100 SRC=../USimages/2020NHSSaltRiverBay.jpeg></TD>
+    <TD><IMG WIDTH=100 SRC=../USimages/2020NHSMarshBillingsRockefeller.jpeg></TD>
+    <TD><IMG WIDTH=100 SRC=../USimages/2020NPreserveTallgrassPrairie.jpeg></TD>
+    </TR>
+    <TR>
+    <TD></TD>
+    <TD BGCOLOR="#FF0000">
+    American Samoa NP - AS</TD>
+    <TD BGCOLOR="#FF0000">
+    Weir Farm NHS - CT</TD>
+    <TD BGCOLOR="#FFFF00">
+    Salt River Bay NHP - VI (D)</TD>
+    <TD BGCOLOR="#FF0000">
+    Marsh Billings Rockerfeller NHP - VT</TD>
+    <TD BGCOLOR="#FFFF00">
+    Tallgrass Prairie NP - KS (D)</TD>
+    </TR>
+
+<TR>
+    <TD>2021<BR>0/0</TD>
+     <TD><IMG WIDTH=100 SRC=../USimages/2021TuskageeAirmen.jpeg></TD>
+</TR>
+<TR>
+    <TD></TD>
+    <TD BGCOLOR="#FF0000">
+    Tuskagee Airmen</TD>
 </TR>
 
 </TABLE>
