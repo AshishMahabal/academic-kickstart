@@ -29,6 +29,7 @@ Some images picked up from <A HREF="arbit">here and there</A>.
 <P>
 -->
 Hugely outdated, but here you go ...<BR>
+<A HREF=shabdakhoool>शब्दखूुळ - a wordle like game for Marathi</A>
 <A HREF=jamaa>jamaa - an amino acid card game of our inventing</A><BR>
 <A HREF=http://www.astro.caltech.edu/~aam/writings/lamal>My marathi sci-fi</A><BR>
 <A HREF=http://www.astro.caltech.edu/~aam/philosophy/philosophy>Some philosophy</A><BR>
