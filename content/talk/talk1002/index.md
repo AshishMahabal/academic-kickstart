@@ -4,4 +4,3 @@ date = 2020-02-10T17:30:00
 featured = true
 +++
 location = "Tilak Maharashtra Vidyapeeth, Pune, India"
-
