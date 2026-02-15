@@ -35,7 +35,7 @@
 
 [[main]]
   name = "Personal"
-  url = "https://ashishmahabal.github.io/writings/index.html"
+  url = "personal/"
   weight = 50
 
 [[main]]
