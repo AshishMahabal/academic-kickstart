@@ -30,7 +30,7 @@ menu:
 Explore the links in the menu to see what I have cared about to put together over time, much of it accreted, leaving out a lot that failed to come together. Such is life.
 
 <UL>
-<LI>Some <A HREF={{< ref "writings/" >}}>Writings</A>, many in Marathi.
+<LI>Some <A HREF="https://ashishmahabal.github.io/writings/index.html">Writings</A>, many in Marathi.
 <LI><A HREF={{< ref "sanskrit/" >}}>Sanskrit</A>: The perfectly made language.
 <LI><A HREF={{< ref "numismatics/" >}}>Numismatics</A>: A vanishing hobby due to plastic. 
 <LI><A HREF={{< ref "ornithology/" >}}>Ornithology</A>: The bird stuff.
