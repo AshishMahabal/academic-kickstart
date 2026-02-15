@@ -28,6 +28,11 @@ mostly hard sci-fi, and they have been published in leading Marathi magazines
 as well as well-known online sites, and a few anthologies. I have also written
 some travelogues, including a few that are predominantly picture-based.
 <P>
+
+## <A HREF=https://ashishmahabal.github.io/writings/index.html>New comprehensive Writings site</A>
+
+Older stuff (some of this yet to be incorporated):
+
 ## <A HREF=diwali>In Diwali magazines</A>
 <!-- <A HREF=lamal.html>For the bi-monthly LAMAL sessions</A><BR> -->
 ## <A HREF=http://www.astro.caltech.edu/~aam/lamal/bytopicd.html>For the bi-monthly LAMAL sessions</A>
